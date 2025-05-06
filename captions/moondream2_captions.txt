@@ -1,0 +1,1009 @@
+/content/drive/MyDrive/testdata/File 002.jpg:  Three children in red and white shirts work on laptops at a red desk in a classroom, with a bookshelf and bulletin board in the background.
+/content/drive/MyDrive/testdata/File 714.jpg:  A modern kitchen boasts dark wood cabinets, a black refrigerator, a white sink, and a black oven, with a green plant and red vase adding pops of color.
+/content/drive/MyDrive/testdata/File 515.jpg:  A red and white "No Entry" sign with a black arrow and a "Cosp Ar Iontrail No Entry" sign are mounted on a pole, with a black trash can and tree in the background.
+/content/drive/MyDrive/testdata/File 313.jpg:  Children play frisbee on a dirt road, with a woman in a blue shirt and white skirt observing, while a white building and trees are visible in the background.
+/content/drive/MyDrive/testdata/File 611.jpg:  A white Apple keyboard and mouse, with a clear cover, rest on a black desk, connected by a white cord.
+/content/drive/MyDrive/testdata/File 511.jpg:  A blue and yellow train travels along a curved track, passing a green bridge and a wooden fence, with a body of water and trees in the background.
+/content/drive/MyDrive/testdata/File 613.jpg:  A brown teddy bear sits on a black cushion in a wicker chair with a black cushion, set against a textured brown wall.
+/content/drive/MyDrive/testdata/File 107.jpg:  Three white sheep stand on a rocky ground, with a large white dome and black pipes in the background, under a cloudy sky.
+/content/drive/MyDrive/testdata/File 912.jpg:  A white SUV is parked on a street corner, with a green street sign for "RAINIER AVE" and a red and white "PARKING ONLY" sign, backed by a gray building and trees.
+/content/drive/MyDrive/testdata/File 103.jpg:  A black dog and two gray and white cats share a moment on a blue and white checkered bed, with a blue bowl and black bowl nearby.
+/content/drive/MyDrive/testdata/File 104.jpg:  A gray tabby cat lounges on a white laptop, its head resting on the keyboard, with a green blanket and blurred background.
+/content/drive/MyDrive/testdata/File 105.jpg:  A wooden crib with a yellow mattress sits in a cozy living room, accompanied by a beagle dog and a cat in their respective beds, with a green wall and a partially visible couch in the background.
+/content/drive/MyDrive/testdata/File 314.jpg:  A skateboarder in green shirt and black pants performs a trick on a concrete ledge at night, with a blurred background of trees and streetlights.
+/content/drive/MyDrive/testdata/File 516.jpg:  A black and orange diesel locomotive, numbered "31190," pulls a green and red freight train through a train station, with a covered platform and overpass in the background.
+/content/drive/MyDrive/testdata/File 004.jpg:  A baby in a blue bib, with a white plate of food and carrot sticks, sits in a beige high chair, surrounded by a green plant.
+/content/drive/MyDrive/testdata/File 712.jpg:  A modern bedroom features a large bed with white linens, a black leather bench, a white nightstand, and a beige armchair, with a window and white walls.
+/content/drive/MyDrive/testdata/File 411.jpg:  A young woman in a white t-shirt and sunglasses savors a hot dog with mustard and relish, set against a lush green park backdrop.
+/content/drive/MyDrive/testdata/File 003.jpg:  Three women converse at a table in a conference room, surrounded by a white tablecloth, flowers, and a large screen displaying a panda image.
+/content/drive/MyDrive/testdata/File 311.jpg:  A female tennis player, dressed in white, swings her racket at a yellow ball on a red clay court, with a green wall and "PARIB" sign in the background.
+/content/drive/MyDrive/testdata/File 713.jpg:  A wooden crib with a yellow mattress sits in a cozy living room, accompanied by a beagle dog and a cat in their respective beds, with a green wall and a partially visible couch in the background.
+/content/drive/MyDrive/testdata/File 715.jpg:  A bustling market scene features a wooden counter with fresh produce, a woman in a blue shirt, and a man in a black shirt, with a red phone and a chalkboard menu on the wall.
+/content/drive/MyDrive/testdata/File 512.jpg:  A Royal Jordanian Airbus A330-200, painted in white with blue and red accents, soars through a clear blue sky, displaying the registration number JY-AIF.
+/content/drive/MyDrive/testdata/File 913.jpg:  A weathered wooden pole holds two signs: "One Way" and "Police Horses Expected", with a red brick building and tree in the background.
+/content/drive/MyDrive/testdata/File 614.jpg:  A clear glass vase holds a bouquet of pink and yellow lilies, with water droplets on the stems, on a gray countertop.
+/content/drive/MyDrive/testdata/File 108.jpg:  A herd of cows, including black, brown, and white, graze on a lush green hillside, backed by a clear blue sky and trees.
+/content/drive/MyDrive/testdata/File 109.jpg:  A calico cat sits on a white bathtub, gazing at the camera, with a blue bucket and red handle nearby.
+/content/drive/MyDrive/testdata/File 315.jpg:  A man in black shorts surfs on a white surfboard, skillfully riding a breaking wave in the deep blue ocean.
+/content/drive/MyDrive/testdata/File 005.jpg:  A man and a woman, dressed casually, sit on a red couch, engrossed in their respective devices - the man on a laptop and the woman on a phone.
+/content/drive/MyDrive/testdata/File 615.jpg:  A white shelf displays a collection of glass vases in various shapes and sizes, including clear, blue, and white vases with floral designs.
+/content/drive/MyDrive/testdata/File 111.jpg:  A brown curly-haired dog with a blue collar and yellow tag lies on a lush green lawn, gazing at the camera with its tongue out.
+/content/drive/MyDrive/testdata/File 006.jpg:  Three individuals, each with a unique umbrella, walk along a path in a park, with a bench and trees in the background.
+/content/drive/MyDrive/testdata/File 316.jpg:  A young boy in a gray hoodie and black helmet balances on a skateboard, with a blue toy car and green bushes in the background.
+/content/drive/MyDrive/testdata/File 110.jpg:  A small brown dog rests its head on a brown teddy bear, creating a heartwarming scene against a white wall.
+/content/drive/MyDrive/testdata/File 008.jpg:  A young girl in a pink sweater and blue dress, holding a gray teddy bear, sits at a wooden table in a cozy kitchen, with a red toy on the counter.
+/content/drive/MyDrive/testdata/File 114.jpg:  A brown and white dog, wearing a black collar with silver buckles, stands on a gravel path, gazing downwards with a leash attached.
+/content/drive/MyDrive/testdata/File 113.jpg:  A black and white cat stands alert on a gray sidewalk, while a white dog rests its head on the ground, both gazing at the camera.
+/content/drive/MyDrive/testdata/File 211.jpg:  A man and a woman ride an elephant through a lush green forest, with a group of people in the distance.
+/content/drive/MyDrive/testdata/File 009.jpg:  A white and purple propeller plane, labeled "airsouth," is parked at a gate with a jet bridge, as people board and disembark.
+/content/drive/MyDrive/testdata/File 007.jpg:  Six individuals gather around a table in a cozy dining room, engaged in conversation and enjoying a meal, with a painting on the wall and a window with curtains.
+/content/drive/MyDrive/testdata/File 112.jpg:  A giraffe with a light brown coat and darker brown spots bends its long neck to lick its head, standing in front of a stone wall and wooden fence.
+/content/drive/MyDrive/testdata/File 716.jpg:  A cozy bedroom features a large bed with white comforter, yellow and blue striped pillow, and white and blue striped pillow, accompanied by two nightstands with lamps and a zigzag patterned lampshade.
+/content/drive/MyDrive/testdata/File 212.jpg:  A giraffe reaches for a yellow ball in a lush green field, observed by a zookeeper and a woman in a red shirt, with a clear blue sky and palm trees in the background.
+/content/drive/MyDrive/testdata/File 616.jpg:  A red alarm clock with white face and black numbers sits on a purple book cover of "Harry Potter and the Prisoner of Azkaban" by J.K. Rowling.
+/content/drive/MyDrive/testdata/File 617.jpg:  A purple vase holds a vibrant bouquet of pink roses, white daisies, and purple chrysanthemums, arranged on a white surface against a white wall.
+/content/drive/MyDrive/testdata/File 115.jpg:  Four giraffes, with brown and white coats and black spots, stand in a grassy field, facing different directions, with a rocky wall and trees in the background.
+/content/drive/MyDrive/testdata/File 010.jpg:  A young woman with dark hair smiles while talking on a silver flip phone, wearing a white t-shirt and seated on a blue and white striped blanket.
+/content/drive/MyDrive/testdata/File 011.jpg:  Four women in vibrant attire walk down a rain-soaked street, each holding a unique umbrella, with houses and trees in the background.
+/content/drive/MyDrive/testdata/File 013.jpg:  Children in yellow and red jerseys play soccer on a lush green field, with one child kicking the ball and others running towards it.
+/content/drive/MyDrive/testdata/File 012.jpg:  A person in a gray shirt and blue jeans works on a laptop at a wooden desk, with a red chair, white shoes, and a white wall in the background.
+/content/drive/MyDrive/testdata/File 412.jpg:  A man in a black apron and headscarf skillfully maneuvers a wooden pizza peel, placing a freshly baked pizza with red sauce and white cheese into a large, round, metallic oven.
+/content/drive/MyDrive/testdata/File 517.jpg:  A yellow train with red and white stripes, bearing the "SNCF" logo, travels along a track through a lush, green landscape, with a stone bridge and trees in the background.
+/content/drive/MyDrive/testdata/File 618.jpg:  A large, white and orange paper kite with a geometric design is held aloft by a person in a park, with a person walking in the background.
+/content/drive/MyDrive/testdata/File 619.jpg:  A blue umbrella, red chair, and warning sign on a sandy beach, with the ocean and clear blue sky in the background.
+/content/drive/MyDrive/testdata/File 014.jpg:  Three individuals gather in a cozy kitchen, with one holding a book, another a beer bottle, and the third holding a cookie.
+/content/drive/MyDrive/testdata/File 317.jpg:  A young man in white and black, holding a yellow racket, prepares to strike a green tennis ball on a red court, with a chain-link fence and red stop sign in the background.
+/content/drive/MyDrive/testdata/File 413.jpg:  A white oval plate holds a colorful assortment of fresh vegetables, including carrots, green beans, red bell peppers, and cucumbers, arranged in a visually appealing manner.
+/content/drive/MyDrive/testdata/File 213.jpg:  A woman in a blue and white checkered shirt smiles while holding a white dog in a wicker basket, standing on a sidewalk with a green awning and white building in the background.
+/content/drive/MyDrive/testdata/File 519.jpg:  A vintage green car with a white license plate, number 295, and a man in a blue cap drives on a road lined with brick buildings and a blue sign.
+/content/drive/MyDrive/testdata/File 914.jpg:  A white street sign with a red circle and "No Parking" symbol indicates street cleaning hours, with a red "Tow Zone" sign below.
+/content/drive/MyDrive/testdata/File 518.jpg:  A green and yellow train, numbered 171806, moves along a railway track, with a person in red and a white building in the background.
+/content/drive/MyDrive/testdata/File 811.jpg:  A white clock tower with a gold dome and clock faces stands tall against a deep blue sky, surrounded by lush green trees.
+/content/drive/MyDrive/testdata/File 116.jpg:  Three cows, including a brown one, graze on a rocky hillside, with a stone building and snow-capped mountain in the background.
+/content/drive/MyDrive/testdata/File 414.jpg:  A homemade pizza with spinach, mushrooms, and melted cheese sits in a black frying pan on a white stovetop, with a gas stove and white countertop in the background.
+/content/drive/MyDrive/testdata/File 122.jpg:  A brown Highland cow with long horns and a yellow tag rests on a dirt path, surrounded by lush green grass and trees.
+/content/drive/MyDrive/testdata/File 120.jpg:  Two cows graze on a grassy hill, with a large ship sailing in the distance and a rocky coastline in the background.
+/content/drive/MyDrive/testdata/File 121.jpg:  A brown and black striped cat sleeps on a black and white dog in a cardboard box on a wooden floor.
+/content/drive/MyDrive/testdata/File 117.jpg:  A gray cat with yellow eyes wears a green knitted beret, gazing directly at the camera against a dark background.
+/content/drive/MyDrive/testdata/File 318.jpg:  Two men converse on a gravel path in a wooded area, with two motorcycles parked nearby and a red truck in the background.
+/content/drive/MyDrive/testdata/File 319.jpg:  A group of skiers in red jackets and helmets gather on a snowy mountain, holding ski poles and standing on a ski lift, with a ski lift and ski lift tracks visible in the background.
+/content/drive/MyDrive/testdata/File 118.jpg:  Three zebras gather at a watering hole in a grassy field, with one drinking and the others observing.
+/content/drive/MyDrive/testdata/File 015.jpg:  A man in a blue shirt and a woman in a pink scarf prepare for a camping trip on a lush green field, with a soccer goal and trees in the distance.
+/content/drive/MyDrive/testdata/File 119.jpg:  A brown and white bird with a white stripe on its head stands on a sandy beach, facing right with a calm body of water in the background.
+/content/drive/MyDrive/testdata/File 016.jpg:  A baby in a blue shirt sits in a white sink, holding a white toothbrush, with a white towel and blue and white bottles nearby.
+/content/drive/MyDrive/testdata/File 123.jpg:  A vibrant parrot with a red head, yellow body, and blue tail perches on a brown branch, facing right with a blurred green background.
+/content/drive/MyDrive/testdata/File 018.jpg:  A newborn baby sleeps peacefully, swaddled in a white onesie and wearing a pink and white striped hat, with a pink teddy bear on their chest.
+/content/drive/MyDrive/testdata/File 019.jpg:  A man in a blue shirt and white hat walks past a bronze statue of a man in a suit and hat, with a lush green forest in the background.
+/content/drive/MyDrive/testdata/File 125.jpg:  Four elephants, including two adults and two juveniles, traverse a dirt road in a grassy field, with one adult leading the way and the others following.
+/content/drive/MyDrive/testdata/File 124.jpg:  A brown Highland cow with large horns and yellow ear tags stands in a lush green field, gazing directly at the camera.
+/content/drive/MyDrive/testdata/File 017.jpg:  A young woman brushes her teeth with a white toothbrush in a bathroom, wearing a blue sweater and standing against a white wall.
+/content/drive/MyDrive/testdata/File 620.jpg:  A green and silver Waring Pro blender with a clear glass pitcher and green lid sits on a white tiled kitchen counter, accompanied by a black toaster and a green bag.
+/content/drive/MyDrive/testdata/File 320.jpg:  Three skiers, dressed in vibrant orange, yellow, and black, navigate a snowy mountain landscape, with one mid-jump and two others in the background.
+/content/drive/MyDrive/testdata/File 214.jpg:  A man in a black shirt and hat sits on the grass, accompanied by a white dog, in a field of grazing sheep under a cloudy sky.
+/content/drive/MyDrive/testdata/File 215.jpg:  A man in a gray shirt feeds a giraffe a carrot from a wooden railing, with the giraffe reaching up to accept the treat.
+/content/drive/MyDrive/testdata/File 621.jpg:  A Sony Ericsson mobile phone, displaying "STEREO RDS 105.9" and "Options Recherch. Retour", rests on a white surface with a black cable and a red knitted blanket nearby.
+/content/drive/MyDrive/testdata/File 127.jpg:  A giraffe with a brown and white coat stands in a zoo enclosure, its head turned to the left, with a blue vending machine and red Coca-Cola sign in the background.
+/content/drive/MyDrive/testdata/File 126.jpg:  An orange cat sleeps on a red couch, accompanied by a white mug of coffee on a blue and red striped blanket.
+/content/drive/MyDrive/testdata/File 021.jpg:  Two men in suits, one with a blue tie and the other with a red tie, stand in front of a bookshelf filled with books and binders.
+/content/drive/MyDrive/testdata/File 020.jpg:  A young man holds an American flag and a $1 bill with the hashtag "#OCCUP" in his mouth, standing against a dark background.
+/content/drive/MyDrive/testdata/File 022.jpg:  Two young boys in red "REDS" jerseys and helmets sit on a bench, smiling and looking at the camera, with a green field and white building in the background.
+/content/drive/MyDrive/testdata/File 415.jpg:  A white countertop holds four bowls: a bowl of red cherry tomatoes, a bowl of white cream, a bowl of orange soup, and a bowl of green salad with a red lid.
+/content/drive/MyDrive/testdata/File 812.jpg:  A red brick clock tower with a white clock face and black numbers stands against a clear blue sky, topped by a black weather vane.
+/content/drive/MyDrive/testdata/File 717.jpg:  A cozy living room features a brick fireplace, yellow walls, a black leather couch, and a wooden dining table, with a large window and plants adding natural light.
+/content/drive/MyDrive/testdata/File 622.jpg:  A stack of black suitcases with pink skulls and stripes, each with a pink zipper and handle, is arranged on a white surface.
+/content/drive/MyDrive/testdata/File 623.jpg:  Three Winnie the Pooh plush toys, dressed in red shirts, are arranged in a row, with one in the foreground and two in the background.
+/content/drive/MyDrive/testdata/File 216.jpg:  A man in a blue shirt and white hat leads a group of cows in a fenced field, accompanied by a brown dog, with a white fence and trees in the background.
+/content/drive/MyDrive/testdata/File 128.jpg:  A black dog holds a Tim Hortons Timbits 10-pack box in its mouth, displaying a playful and curious expression.
+/content/drive/MyDrive/testdata/File 624.jpg:  A green and white fire hydrant, with a red and white striped base, stands on a city street corner, accompanied by two additional fire hydrants and a blurred background of cars and buildings.
+/content/drive/MyDrive/testdata/File 814.jpg:  The Old Town Hall in Prague, Czech Republic, stands tall with a clock tower and white facade, illuminated by warm lights and surrounded by people.
+/content/drive/MyDrive/testdata/File 813.jpg:  A bustling city street features towering buildings, a church with a tall spire, and a statue, with people walking and vehicles moving along the road.
+/content/drive/MyDrive/testdata/File 129.jpg:  A black and white cat rests on a cluttered desk, with a computer monitor displaying a blue screen and a white keyboard, accompanied by a red and white box and a glass of water.
+/content/drive/MyDrive/testdata/File 023.jpg:  A group of people gathers around a table in a restaurant, engaged in conversation and enjoying a meal, with a framed picture on the wall.
+/content/drive/MyDrive/testdata/File 131.jpg:  An orange cat drinks from a white toilet bowl, with a silver bowl and blue bottle nearby on a white tiled floor.
+/content/drive/MyDrive/testdata/File 130.jpg:  A white and brown cat gazes at a laptop displaying a Tumblr page, with a blue background and white text.
+/content/drive/MyDrive/testdata/File 134.jpg:  A gray tabby cat sleeps peacefully on a white desk, its head resting on a closed laptop and paw stretched out.
+/content/drive/MyDrive/testdata/File 719.jpg:  A cozy living room features a white sofa, green armchair, and black coffee table, with a brick fireplace, wooden floor, and white door.
+/content/drive/MyDrive/testdata/File 520.jpg:  A white airplane with blue tail and propeller, registration G-CCCS, takes off from a runway, moving from left to right with a slight upward tilt.
+/content/drive/MyDrive/testdata/File 718.jpg:  A living room with a green wall, white tile, and a white toilet is set up with a TV displaying a man in a red shirt, a white shelf, and a cardboard box labeled "Riobel".
+/content/drive/MyDrive/testdata/File 132.jpg:  Two giraffes, one adult and one juvenile, stand in a spacious metal-barred enclosure, with the adult reaching for food and the juvenile curiously observing.
+/content/drive/MyDrive/testdata/File 133.jpg:  A giraffe with a brown and white coat stands tall in a zoo enclosure, reaching for leaves from a tree, with a tree trunk and fallen leaves in the foreground.
+/content/drive/MyDrive/testdata/File 024.jpg:  A young boy in a green shirt and blue shorts swings a yellow tennis racket at a yellow ball in a cozy living room.
+/content/drive/MyDrive/testdata/File 135.jpg:  A black and white cat sits on a concrete sidewalk, its tongue out, with a green railing and trees in the background.
+/content/drive/MyDrive/testdata/File 416.jpg:  A white mug with a red straw and a green pear yogurt container sit on a red tablecloth, accompanied by a plate of fruit and a black and white snack.
+/content/drive/MyDrive/testdata/File 417.jpg:  A black skillet holds a vibrant stir-fry of green broccoli, red bell peppers, orange carrots, and green beans, with a wooden spoon resting on the side.
+/content/drive/MyDrive/testdata/File 025.jpg:  Two men in green and blue shirts sit on a wooden bench in a park, one reading and the other contemplating, with a red and white bag nearby.
+/content/drive/MyDrive/testdata/File 026.jpg:  A woman in a multicolored sweater and glasses smiles while holding a large gray remote control on a white couch, with a blue book and white pillow nearby.
+/content/drive/MyDrive/testdata/File 721.jpg:  A cozy living room features a white bookshelf, a glass coffee table with a laptop and flowers, and a whiteboard with red and blue notes, with a plant and bookshelf in the background.
+/content/drive/MyDrive/testdata/File 720.jpg:  A serene hotel room features a large bed with white linens, a green armchair, and a black and white striped wall, with a bathroom mirror reflecting the room's tranquility.
+/content/drive/MyDrive/testdata/File 521.jpg:  Three vintage buses, including a green double-decker, a green double-decker, and a red double-decker, are parked in a gravel lot with a person in the foreground.
+/content/drive/MyDrive/testdata/File 027.jpg:  A man in a striped shirt and a woman in a red shirt hold a white cake with chocolate sprinkles, celebrating a birthday in a cozy kitchen.
+/content/drive/MyDrive/testdata/File 321.jpg:  Two girls in pink and purple jerseys, numbered 9 and 6, compete for the ball on a lush green field, with a man in a black jacket observing.
+/content/drive/MyDrive/testdata/File 322.jpg:  A man and a woman play a boxing video game on a television in a cozy living room, with a beige couch and blue armchair in the background.
+/content/drive/MyDrive/testdata/File 722.jpg:  A white sink with a silver faucet, surrounded by a wooden countertop, holds a red pot, black frying pan, and white bowl, with a window and wooden shelf in the background.
+/content/drive/MyDrive/testdata/File 627.jpg:  A well-organized office workspace features a large desk with a computer setup, a black printer, and a blue filing cabinet, with a window providing natural light.
+/content/drive/MyDrive/testdata/File 136.jpg:  Two dogs, one black and one brown, chase a blue frisbee in a lush green field, with the black dog leaping in the air.
+/content/drive/MyDrive/testdata/File 138.jpg:  A Siamese cat with black and white fur and a black and white striped face sits on a black and white sneaker, gazing at the camera with a green plant in the background.
+/content/drive/MyDrive/testdata/File 137.jpg:  A black and tan dog rests on a beige dog bed with black legs and frame, positioned on a lush green lawn with a wooden fence in the background.
+/content/drive/MyDrive/testdata/File 625.jpg:  Three smartphones, including a silver Verizon PDA, black iPhone, and black Samsung, are arranged on a wooden desk with a notebook and handwritten notes.
+/content/drive/MyDrive/testdata/File 626.jpg:  A wooden desk holds a Dell monitor, Apple laptop, and white keyboard, with a black cord and white mouse, and a yellow poster on the wall.
+/content/drive/MyDrive/testdata/File 628.jpg:  A white vase with red and green polka dots holds a vibrant bouquet of pink, orange, yellow, and white flowers, placed on a white rug with a brown and white geometric pattern.
+/content/drive/MyDrive/testdata/File 629.jpg:  Four smartphones, including a silver iPhone, black BlackBerry, black iPhone, and black iPod, are arranged in a row on a white surface, with a red and orange toy in the background.
+/content/drive/MyDrive/testdata/File 631.jpg:  Six stuffed animals, including a green turtle, yellow duck, brown bear, gray cat, and two dogs, gather around a plate of popcorn on a red and beige carpet.
+/content/drive/MyDrive/testdata/File 630.jpg:  A hand holds a white toothbrush holder with two toothbrushes, one pink and one blue, against a backdrop of a bathroom with a white tiled floor and a partially visible bed.
+/content/drive/MyDrive/testdata/File 028.jpg:  Two monks in orange robes sit on a stone bench, one holding a book and the other using a phone, in a serene park setting.
+/content/drive/MyDrive/testdata/File 139.jpg:  A white and brown cat with green eyes stands on a dirt path, gazing directly at the camera, with a backdrop of trees and bushes.
+/content/drive/MyDrive/testdata/File 142.jpg:  A brown and white dog and a Siamese cat share a tender moment on a white couch, with the dog nuzzling the cat's head.
+/content/drive/MyDrive/testdata/File 144.jpg:  A gray and white cat lies on a bed of colorful fabrics, gazing directly at the camera with a curious expression.
+/content/drive/MyDrive/testdata/File 815.jpg:  Big Ben, a renowned London landmark, stands tall with a white clock face and black numbers, framed by a modern glass structure and a clear blue sky.
+/content/drive/MyDrive/testdata/File 143.jpg:  A black cat with green eyes lies on a concrete surface, gazing at the camera, with a black tire and white rim in the background.
+/content/drive/MyDrive/testdata/File 140.jpg:  Two sheep, one black and one white with black spots, stand in a field of tall grass, with the white sheep facing the camera.
+/content/drive/MyDrive/testdata/File 217.jpg:  A man in blue and a woman in red ride an elephant with a red and yellow blanket, carrying a basket of fruit, in a lush green forest.
+/content/drive/MyDrive/testdata/File 141.jpg:  A giraffe with a brown and white coat bends its long neck to graze on green grass, with a rocky wall and trees in the background.
+/content/drive/MyDrive/testdata/File 522.jpg:  A white and blue jetBlue airplane, with a blue stripe and tail, is parked on the tarmac, accompanied by a yellow and black baggage tug and a worker in a blue vest.
+/content/drive/MyDrive/testdata/File 029.jpg:  People in rain gear walk on a wet sidewalk, holding colorful umbrellas, with a building and trees in the background.
+/content/drive/MyDrive/testdata/File 218.jpg:  A woman in a blue jacket and white hat interacts with a gray elephant on a dirt path, surrounded by lush greenery and a car in the distance.
+/content/drive/MyDrive/testdata/File 030.jpg:  A man in a white shirt and blue jeans sits on a green bench, holding a phone and gazing off to the side, with a black fence and trees in the background.
+/content/drive/MyDrive/testdata/File 031.jpg:  A man in a white shirt types on a laptop, while a group of people in red and yellow gather around him in a public space with a black fence and trees.
+/content/drive/MyDrive/testdata/File 219.jpg:  A woman in pink rides a white horse through shallow water, with seagulls flying overhead and a rocky shoreline in the background.
+/content/drive/MyDrive/testdata/File 523.jpg:  An orange dump truck with a black scoop and a black car with a white roof navigate a snowy road, with power lines and buildings in the distance.
+/content/drive/MyDrive/testdata/File 632.jpg:  Four teddy bears, dressed in red, green, white, and gold, gather on a wooden dresser, with one bear wearing a Santa hat.
+/content/drive/MyDrive/testdata/File 323.jpg:  Two young men play tennis on a red court, with one serving and the other preparing to return the ball, set against a backdrop of trees and a chain-link fence.
+/content/drive/MyDrive/testdata/File 220.jpg:  A man in a gray sweatshirt, wearing glasses, sits on a couch with a cat on his lap, holding a phone and gazing at the cat.
+/content/drive/MyDrive/testdata/File 145.jpg:  A group of sheep gathers around a wooden shelter in a snowy field, with a flagpole and trees in the background.
+/content/drive/MyDrive/testdata/File 146.jpg:  A brown and black striped cat lounges on a brown couch, gazing off to the side, with a white kitchen counter and black refrigerator in the background.
+/content/drive/MyDrive/testdata/File 032.jpg:  A woman in a Viking-inspired costume, complete with a horned helmet and fur-trimmed dress, holds a snowboard in a snowy landscape.
+/content/drive/MyDrive/testdata/File 147.jpg:  Two brown bears traverse a snowy landscape, one walking and the other walking with a slight hunch, amidst a backdrop of snow-covered trees and bushes.
+/content/drive/MyDrive/testdata/File 151.jpg:  A mother cow and her calf graze in a lush green field, with the mother's black and white coat contrasting against the vibrant grass and trees in the background.
+/content/drive/MyDrive/testdata/File 150.jpg:  Two cats, one orange and white, the other white, rest on a black metal structure with a hanging pulley, set against a yellow wall and blue door.
+/content/drive/MyDrive/testdata/File 152.jpg:  A gray tabby cat sits on a wooden desk, gazing at a television displaying a blurred image of a person in a red and white striped shirt.
+/content/drive/MyDrive/testdata/File 149.jpg:  Three sheep, one black and white, one white with black spots, and one white with yellow ear tags, stand in a grassy field under a clear blue sky.
+/content/drive/MyDrive/testdata/File 148.jpg:  A person in red and yellow points towards a herd of cows in a lush forest, with a mix of white, brown, and black cows scattered across the dirt ground.
+/content/drive/MyDrive/testdata/File 156.jpg:  A black and white cat sleeps peacefully on a wooden desk, its head resting on a white keyboard and surrounded by cords and a white power strip.
+/content/drive/MyDrive/testdata/File 033.jpg:  A group of people, including adults and children, gather under umbrellas on a street, with a "No Parking Any Time" sign in the background.
+/content/drive/MyDrive/testdata/File 155.jpg:  A black and white cow grazes in a lush green field, with other cows scattered throughout the background.
+/content/drive/MyDrive/testdata/File 154.jpg:  Four elephants, including two adults and two juveniles, traverse a dry grassland, with the adults leading the way and the juveniles following closely behind.
+/content/drive/MyDrive/testdata/File 153.jpg:  A white and orange cat perches on a black laptop, gazing at the screen, with a red couch and bookshelf in the background.
+/content/drive/MyDrive/testdata/File 157.jpg:  A flock of sheep, including white, black, and brown, graze and rest in a lush green field, with a line of trees in the distance.
+/content/drive/MyDrive/testdata/File 158.jpg:  A gray and white kitten peeks out from a black and white Adidas sneaker, gazing directly at the camera.
+/content/drive/MyDrive/testdata/File 221.jpg:  A majestic elephant, adorned with a red and gold blanket, stands in a lush green forest, with a person in a red shirt and blue jeans seated on its back.
+/content/drive/MyDrive/testdata/File 159.jpg:  An orange cat with a white collar stands on a speckled floor, its mouth open and tongue out, with a white toilet in the background.
+/content/drive/MyDrive/testdata/File 161.jpg:  Two cows, one black and one white, stand in a verdant field, with the white cow gazing directly at the camera.
+/content/drive/MyDrive/testdata/File 162.jpg:  A black cat stands on a white sink in a beige-tiled bathroom, with a black faucet and shower head nearby.
+/content/drive/MyDrive/testdata/File 160.jpg:  A Canadian goose with a black head and neck stands on a gravel path, accompanied by a brown duck in the background.
+/content/drive/MyDrive/testdata/File 222.jpg:  A young girl rides a brown horse, accompanied by a gray horse, in front of a Taco John's restaurant, with a bustling street and trees in the background.
+/content/drive/MyDrive/testdata/File 816.jpg:  A person in a colorful floral hoodie holds a green balloon with a black and white face, while a crowd gathers in front of a grand building with a clock tower.
+/content/drive/MyDrive/testdata/File 165.jpg:  A gray dog with a blue collar and tag lies on a green lawn, tongue out, with a green frisbee nearby and a white house in the background.
+/content/drive/MyDrive/testdata/File 163.jpg:  A gray and white cat rests on a black skateboard with red wheels, positioned on a beige carpeted floor with a white plastic storage unit in the background.
+/content/drive/MyDrive/testdata/File 164.jpg:  A white dog sleeps peacefully on a blue and purple blanket, surrounded by scattered books and papers.
+/content/drive/MyDrive/testdata/File 167.jpg:  A white dog with a red collar and tag lies on a blue and white checkered blanket, gazing at the camera with a curious expression.
+/content/drive/MyDrive/testdata/File 166.jpg:  Two giraffes, one with a brown and white coat and the other with a brown and white coat, stand in a grassy field with trees and bushes.
+/content/drive/MyDrive/testdata/File 633.jpg:  A glass vase holds a vibrant bouquet of orange roses, yellow orchids, and orange lilies, arranged in a loose, natural style.
+/content/drive/MyDrive/testdata/File 723.jpg:  A modern bathroom features a white sink, wooden vanity, white cabinets, and a white rug, with a white cat statue and a black and white book on the floor.
+/content/drive/MyDrive/testdata/File 168.jpg:  A calico cat sleeps peacefully on a brown leather shoe, its head resting on the shoe's sole, with a white wall and wooden floor in the background.
+/content/drive/MyDrive/testdata/File 223.jpg:  A white and orange cat sits on a black couch, gazing at the camera, with a black remote control nearby and a blurred figure in the background.
+/content/drive/MyDrive/testdata/File 170.jpg:  A tan dog with a blue collar and tag lies on a sandy beach, gazing to the left with its tail curled up.
+/content/drive/MyDrive/testdata/File 169.jpg:  A gray cat lounges on a wooden desk, gazing at the camera, with a person's hand resting on a laptop and a white mug nearby.
+/content/drive/MyDrive/testdata/File 224.jpg:  A shirtless man in blue and yellow striped swim trunks and a black and white dog on a white paddleboard paddle through calm water.
+/content/drive/MyDrive/testdata/File 172.jpg:  A guinea pig sits on a green surface, surrounded by a blue truck labeled "Malcolm" and a miniature figure, with a backdrop of a pastoral landscape and mountains.
+/content/drive/MyDrive/testdata/File 225.jpg:  A young woman in a black sweater smiles while sitting on a wooden chair, holding a brown dog with a blue collar.
+/content/drive/MyDrive/testdata/File 171.jpg:  A person in a black helmet and purple pants falls off a gray horse with a red saddle, kicking a blue ball in a muddy arena.
+/content/drive/MyDrive/testdata/File 226.jpg:  A man in a gray sweatshirt and black baseball cap embraces a small brown dog on a city sidewalk, with a black backpack and white chair nearby.
+/content/drive/MyDrive/testdata/File 175.jpg:  A light brown cow rests on a red bench with a white inscription, backed by a red fence and a building with a blue sign.
+/content/drive/MyDrive/testdata/File 034.jpg:  A man in a blue shirt, wearing sunglasses, holds a teddy bear with a speech bubble reading "Stupid bear!" in a cozy room.
+/content/drive/MyDrive/testdata/File 173.jpg:  A gray cat with glowing eyes sits on a floral couch, surrounded by books, a green bag, and a red poster, with a window and white blinds in the background.
+/content/drive/MyDrive/testdata/File 174.jpg:  A small brown and white bird perches on a car's hood, facing right, with a blurred green field and warm orange sky in the background.
+/content/drive/MyDrive/testdata/File 817.jpg:  A white clock tower with gold accents and a pointed roof stands against a clear blue sky, featuring two large gold-framed clocks and intricate carvings.
+/content/drive/MyDrive/testdata/File 176.jpg:  A golden retriever and a gray and white striped cat share a peaceful moment on a grassy area, with the dog resting and the cat sitting beside it.
+/content/drive/MyDrive/testdata/File 227.jpg:  A brown dog with a blue collar eagerly waits for a treat from a person's hand, holding a yellow donut in its mouth.
+/content/drive/MyDrive/testdata/File 178.jpg:  Three dogs, a husky, a black dog, and a golden retriever, interact playfully on a gravel surface.
+/content/drive/MyDrive/testdata/File 177.jpg:  A brown and white dog, holding a blue frisbee, runs through a snowy backyard, leaving a trail of snow behind.
+/content/drive/MyDrive/testdata/File 228.jpg:  A man in red shirt and black pants rides a galloping black horse, holding a whip, in a sandy arena with a yellow banner and speaker.
+/content/drive/MyDrive/testdata/File 179.jpg:  A small dog with a blue collar sits on a white plastic chair, gazing at the camera with a curious expression, in a dimly lit room.
+/content/drive/MyDrive/testdata/File 180.jpg:  A brown and white horse, adorned with a green halter and red bridle, stands in a bustling city, its head turned towards the camera.
+/content/drive/MyDrive/testdata/File 182.jpg:  A white and brown dog with a red collar stands on a sidewalk, gazing at the camera, with a silver car and black parking meter nearby.
+/content/drive/MyDrive/testdata/File 181.jpg:  Two guinea pigs, one white and one brown, sit on a blue blanket, with a birthday cake featuring a blue and white striped frosting and a lit candle nearby.
+/content/drive/MyDrive/testdata/File 634.jpg:  A red fire hydrant with a yellow hose and a red handle stands on a sidewalk, with a yellow car and red fire truck in the background.
+/content/drive/MyDrive/testdata/File 183.jpg:  A Siberian Husky leaps in mid-air, while a brown and white dog with a green collar watches from the ground, in a fenced-in area with a grassy field and children in the background.
+/content/drive/MyDrive/testdata/File 186.jpg:  A black and white dog holds a pink frisbee with a green and white design, standing in a snowy landscape.
+/content/drive/MyDrive/testdata/File 184.jpg:  A polar bear, with a white coat and black nose, sits on a concrete floor, displaying its powerful jaws and erect ears.
+/content/drive/MyDrive/testdata/File 185.jpg:  A brown cow with large horns stands in a lush green field, gazing directly at the camera, with a wire fence and trees in the background.
+/content/drive/MyDrive/testdata/File 635.jpg:  A blue and green porcelain incense burner with a lion head and a small blue and green porcelain vase with a floral design are displayed on a white shelf.
+/content/drive/MyDrive/testdata/File 636.jpg:  A vibrant street scene in Milan, Italy, features a large metal sculpture with red, yellow, and green loops, a traffic light, and pedestrians, with a yellow food truck and blue sky in the background.
+/content/drive/MyDrive/testdata/File 187.jpg:  A brown and black cat sits on a blue tablecloth, gazing at a white bowl with a black rim, against a white wall.
+/content/drive/MyDrive/testdata/File 637.jpg:  A wooden bench with six slats and metal legs sits in a park, surrounded by lush greenery and fallen leaves, with a fence in the background.
+/content/drive/MyDrive/testdata/File 819.jpg:  A tall clock tower with a green roof and white clock face stands in a European city, surrounded by colorful buildings and a river.
+/content/drive/MyDrive/testdata/File 188.jpg:  A light brown puppy with a black nose and blue eyes lies on a green and brown camouflage blanket, holding a red bone-shaped toy.
+/content/drive/MyDrive/testdata/File 638.jpg:  A black laptop with a blue screen sits on a wooden desk, accompanied by a black book, white mug, and black phone, with a window view of a serene lake and mountains.
+/content/drive/MyDrive/testdata/File 190.jpg:  A black dog with white paws rests on a brown leather couch, accompanied by a pink blanket and a white door.
+/content/drive/MyDrive/testdata/File 820.jpg:  A grand yellow castle-like building with a clock tower and arched windows stands in a bustling city square, surrounded by people and a fountain.
+/content/drive/MyDrive/testdata/File 639.jpg:  A red fire hydrant, covered in snow, stands in a snowy landscape, with a chain attached to its side.
+/content/drive/MyDrive/testdata/File 189.jpg:  A gray tabby cat with green eyes and a black hat rests on a purple blanket, gazing directly at the camera.
+/content/drive/MyDrive/testdata/File 640.jpg:  A clear glass vase holds a vibrant bouquet of pink gerbera daisies, yellow roses, pink roses, and yellow carnations, tied with a green ribbon.
+/content/drive/MyDrive/testdata/File 192.jpg:  Two giraffes, one with a long neck and the other with a shorter neck, stand in a grassy field, accompanied by a group of antelopes in the distance.
+/content/drive/MyDrive/testdata/File 191.jpg:  Two cows, one black and white and the other brown and white, walk on a street, one with a bell around its neck.
+/content/drive/MyDrive/testdata/File 193.jpg:  A gray and white cat playfully interacts with a yellow and red toy on a blue rug, with a wooden box and blue and white patterned box nearby.
+/content/drive/MyDrive/testdata/File 197.jpg:  A black-faced sheep with white wool stands behind a rustic wooden fence, gazing curiously at the camera in a lush green field.
+/content/drive/MyDrive/testdata/File 229.jpg:  A man in a straw hat and overalls tends to a garden, using a wooden tool, with a brown horse harnessed nearby and a lush green field in the background.
+/content/drive/MyDrive/testdata/File 194.jpg:  A white horse-drawn carriage waits on a cobblestone street, with a red and white building and a "No Entry" sign in the background.
+/content/drive/MyDrive/testdata/File 196.jpg:  A black and gray crow perches on a silver chair, facing right, with a blurred blue building and tree in the background.
+/content/drive/MyDrive/testdata/File 195.jpg:  A light brown dog with floppy ears lies on a striped blanket, gazing at the camera with a curious expression.
+/content/drive/MyDrive/testdata/File 230.jpg:  Four white cows with horns and plows walk along a road, accompanied by two men in white shirts and black pants, with a red and white sign and palm trees in the background.
+/content/drive/MyDrive/testdata/File 641.jpg:  A black cat rests on a wooden bench in a lush garden, surrounded by pink flowers and green foliage.
+/content/drive/MyDrive/testdata/File 199.jpg:  A light brown elephant stands on a sandy riverbank, its trunk extended towards the water, with a rocky landscape and trees in the background.
+/content/drive/MyDrive/testdata/File 198.jpg:  A flock of white sheep graze in a dry, grassy field, with a solitary black bird perched on one of their backs.
+/content/drive/MyDrive/testdata/File 231.jpg:  A man in blue shirt and shorts rides an elephant with a chain around its neck, walking on a stone path in a lush green park.
+/content/drive/MyDrive/testdata/File 821.jpg:  Big Ben clock tower in London, England, stands tall with a golden clock face, contrasting against a clear blue sky and surrounded by lush greenery.
+/content/drive/MyDrive/testdata/File 200.jpg:  A black and white dog rests on a beige couch, with a laptop displaying a blue screen and a white cord nearby.
+/content/drive/MyDrive/testdata/File 642.jpg:  A black tennis racket with a yellow ball rests on a red surface, with the word "Penn" inscribed on the ball.
+/content/drive/MyDrive/testdata/File 232.jpg:  A young child lies on a wooden chair, accompanied by a gray and white cat, with a wooden chair and wall in the background.
+/content/drive/MyDrive/testdata/File 233.jpg:  Two elephants, adorned with baskets and carrying people, stand in a natural setting, with one displaying a red hat and the other a blue hat.
+/content/drive/MyDrive/testdata/File 201.jpg:  A brown bear lies on a rock in a forest, while two white wolves rest on a log in the background.
+/content/drive/MyDrive/testdata/File 202.jpg:  A brown and white bulldog balances on a skateboard, wearing a black collar and leash, with a leash attached to a tree in the background.
+/content/drive/MyDrive/testdata/File 203.jpg:  Six flamingos stand in a line on a calm body of water, their long necks and legs creating a striking silhouette against the black and white background.
+/content/drive/MyDrive/testdata/File 234.jpg:  A man in blue and yellow striped shorts paddles a white surfboard with a black paddle, accompanied by a white dog with a black collar.
+/content/drive/MyDrive/testdata/File 204.jpg:  A gray and white cat with a bell collar rests in a light brown bowl on a wooden surface, gazing directly at the camera.
+/content/drive/MyDrive/testdata/File 822.jpg:  A tall, ornate stone church with a clock tower and arched windows stands in a bustling city, surrounded by buildings and cars.
+/content/drive/MyDrive/testdata/File 235.jpg:  A brown horse stands on a grassy field, with a woman in pink and a man in white seated nearby, while a man in white observes.
+/content/drive/MyDrive/testdata/File 823.jpg:  A black and white bus, adorned with a "CDS" logo, travels down a city street lined with tall buildings, a bus stop, and a church with a red roof.
+/content/drive/MyDrive/testdata/File 824.jpg:  A grand white clock tower with a green clock face and gold accents stands tall in Porto, Portugal, surrounded by intricate sculptures and a clear blue sky.
+/content/drive/MyDrive/testdata/File 825.jpg:  Big Ben, the iconic Elizabeth Tower in London, UK, stands tall with a clock face and spire, surrounded by lush greenery and a clear blue sky.
+/content/drive/MyDrive/testdata/File 826.jpg:  A red brick clock tower with a white clock face and pointed roof stands tall against a clear blue sky, accompanied by a red-roofed building with arched windows.
+/content/drive/MyDrive/testdata/File 236.jpg:  Four individuals, two on horseback and two on foot, prepare for a horseback ride along a sandy beach, with the ocean and clear sky in the background.
+/content/drive/MyDrive/testdata/File 643.jpg:  A red gerbera daisy in full bloom sits in a white vase on a wooden windowsill, with a blurred view of a cityscape outside.
+/content/drive/MyDrive/testdata/File 827.jpg:  A stone clock tower with a pointed roof and clock face stands tall against a clear blue sky, accompanied by a white building with a green roof.
+/content/drive/MyDrive/testdata/File 644.jpg:  A brown teddy bear with a white belly and red nose sits in a blue and white striped ceramic pot, gazing upwards with a curious expression.
+/content/drive/MyDrive/testdata/File 828.jpg:  A red brick clock tower with a white clock face and green roof stands tall in a foggy cityscape, with a white bus and red firetruck parked nearby.
+/content/drive/MyDrive/testdata/File 645.jpg:  A red and green backpack, laptop, calculator, mouse, and various items are arranged on a gray concrete surface, with a green and white striped bag in the background.
+/content/drive/MyDrive/testdata/File 647.jpg:  A yellow fire hydrant with a green top and silver chain stands on a concrete base, accompanied by a red car and a yellow van in the background.
+/content/drive/MyDrive/testdata/File 646.jpg:  A white mantelpiece with a gold-framed mirror, white flowers, and a blue vase with purple flowers is arranged with a white plate and black tray.
+/content/drive/MyDrive/testdata/File 915.jpg:  A green street sign for "Alexandrite Ln" and "Hadley Ct" is mounted on a black pole, with a white house and black gate in the background.
+/content/drive/MyDrive/testdata/File 829.jpg:  A white clock tower with a black dome and gold weather vane stands against a clear blue sky, accompanied by a white spire with a green roof.
+/content/drive/MyDrive/testdata/File 237.jpg:  A person in a green jacket and red gloves sits on a wooden bench, accompanied by a black and white dog, with a bicycle and yellow car in the background.
+/content/drive/MyDrive/testdata/File 830.jpg:  A red brick building with a clock tower and awning, displaying the French phrase "Sans Dieu Rien," stands amidst lush greenery.
+/content/drive/MyDrive/testdata/File 238.jpg:  A woman in pink reaches out to a horse with its tongue out, standing in a rustic barn with wooden beams and a corrugated metal roof.
+/content/drive/MyDrive/testdata/File 831.jpg:  A panoramic view of London's skyline features the Elizabeth Tower, Big Ben, and the Houses of Parliament, with a red double-decker building and a bridge in the foreground.
+/content/drive/MyDrive/testdata/File 832.jpg:  A white church with a tall steeple, cross, and clock faces the viewer, set against a clear blue sky.
+/content/drive/MyDrive/testdata/File 833.jpg:  Helsinki Cathedral's white facade and green dome are illuminated at dusk, with a large screen displaying a blue and white image and a crowd gathered in front.
+/content/drive/MyDrive/testdata/File 035.jpg:  A bustling Parisian street scene unfolds under a gray sky, with people walking on the sidewalk, crossing the street, and carrying umbrellas.
+/content/drive/MyDrive/testdata/File 724.jpg:  A cozy living room features a black leather couch, wooden coffee table, and television, with a red accent wall, white door, and black leather armchair.
+/content/drive/MyDrive/testdata/File 725.jpg:  A cozy bedroom features two twin beds with white linens, black headboards, and wooden nightstands with lamps, set against a white wall and a view of a red-roofed building.
+/content/drive/MyDrive/testdata/File 524.jpg:  A red and white P-51 Mustang with a blue star and "J-6566" on its side is parked on a tarmac, surrounded by other airplanes and people.
+/content/drive/MyDrive/testdata/File 526.jpg:  A white Arri Lighting Rental truck, with a blue and white logo, is parked on a cobblestone street, accompanied by orange traffic cones and a white building with green trim.
+/content/drive/MyDrive/testdata/File 525.jpg:  A United Airlines airplane with blue and white stripes and a red and white logo is parked on the tarmac, accompanied by vintage cars and people in a bustling airport setting.
+/content/drive/MyDrive/testdata/File 527.jpg:  A white sedan with a black roof rack and silver rims is parked on a city street, with a red and white McDonald's advertisement and a white bus in the background.
+/content/drive/MyDrive/testdata/File 528.jpg:  A modern white and orange train with a red "R" stands on a track in a bustling train station, with a black metal roof and white walls.
+/content/drive/MyDrive/testdata/File 529.jpg:  A white Boeing C-130 Hercules cargo plane with blue and white logo and propellers moves from left to right against a gray sky.
+/content/drive/MyDrive/testdata/File 530.jpg:  A blue and white Avon Bus, labeled "Evolution" and "West Kirby," waits at a bus stop, with a sign indicating its route and destination.
+/content/drive/MyDrive/testdata/File 531.jpg:  A red double-decker bus, labeled "Chalk Farm," drives down a bustling London street, passing shops and restaurants with colorful signs.
+/content/drive/MyDrive/testdata/File 532.jpg:  A yellow and purple First Great Western train, numbered 185 149, waits at a bustling train station, with a modern glass building and overcast sky in the background.
+/content/drive/MyDrive/testdata/File 533.jpg:  A white and pink First bus, numbered 30, drives on a wet road, displaying "Beckers Green" and "R865 DPM" on its front, with a red brick building and black and white striped pole in the background.
+/content/drive/MyDrive/testdata/File 834.jpg:  A tall clock tower with a red roof and white clock face stands in a European city, accompanied by a banner and flags, with a red-roofed building in the background.
+/content/drive/MyDrive/testdata/File 835.jpg:  Big Ben, a renowned London landmark, stands tall with a white clock face and gold accents, contrasting against a gray sky and snow-covered ground.
+/content/drive/MyDrive/testdata/File 534.jpg:  A red Camiva fire truck, numbered 2, is parked on a wet street, displaying the words "BOMBERS" and "CAMIVA" on its side.
+/content/drive/MyDrive/testdata/File 535.jpg:  A Kenworth truck and trailer, with a group of people in black and red uniforms, stand in front of a red and white Kenworth warehouse.
+/content/drive/MyDrive/testdata/File 537.jpg:  Two red Royal Air Force jet fighters, marked with the words "Royal Air Force" and "RAF", taxi on a runway, with a concrete building and trees in the background.
+/content/drive/MyDrive/testdata/File 536.jpg:  A Barcelona bus, adorned with a blue and white design and the words "Barcelona Bus Turistic," parks on a city street, with a red canopy and people on the upper deck.
+/content/drive/MyDrive/testdata/File 648.jpg:  A blue pool table hosts a collection of sports balls, including a yellow tennis ball, red cricket ball, orange tennis ball, red and white baseball, and white golf ball, with a brown cue ball and black billiard ball nearby.
+/content/drive/MyDrive/testdata/File 538.jpg:  An orange double-decker bus, numbered 79, waits at a bus stop with a yellow bus in the background, displaying the "GM Buses" logo and route number.
+/content/drive/MyDrive/testdata/File 539.jpg:  A blue and yellow First class train, numbered 60, moves along a curved track, passing a red and white striped fence and a quaint village in the distance.
+/content/drive/MyDrive/testdata/File 836.jpg:  The Palace of Westminster and Elizabeth Tower, known as Big Ben, stand majestically in London, England, with the River Thames flowing in the foreground.
+/content/drive/MyDrive/testdata/File 540.jpg:  Two motorcycles, a blue Honda Gold Wing and a red Harley Davidson, are parked on a city street, with a white car and building in the background.
+/content/drive/MyDrive/testdata/File 543.jpg:  Two vintage camper vans, one orange and one yellow, travel along a winding road through a desert landscape, with a clear blue sky overhead.
+/content/drive/MyDrive/testdata/File 542.jpg:  A red and white River Rouge fire truck, with a ladder and side mirror, is parked in a garage, displaying the words "RIVER ROUGE" and "ENG." on its side.
+/content/drive/MyDrive/testdata/File 541.jpg:  A white MAN bus, numbered NE 5065, waits at a bus stop with a digital display, as people wait and a pedestrian crosses the street.
+/content/drive/MyDrive/testdata/File 328.jpg:  Two tennis players in orange and yellow shirts engage in a match on a blue court, with a blue wall and advertisements in the background.
+/content/drive/MyDrive/testdata/File 324.jpg:  A skateboarder in a blue helmet and black t-shirt performs a trick on a concrete ramp, surrounded by white cones and a cityscape backdrop.
+/content/drive/MyDrive/testdata/File 327.jpg:  A young man in a red hoodie and glasses reads a newspaper on a green train seat, with a Chicago poster on the wall.
+/content/drive/MyDrive/testdata/File 326.jpg:  Three young men in black, blue, and red skateboards stand on a sidewalk, with a yellow taxi and a "NYC TAXI" sign in the background.
+/content/drive/MyDrive/testdata/File 331.jpg:  A man in a red and white wetsuit surfs on a green wave, skillfully maneuvering a red and black boogie board amidst the powerful force of the ocean.
+/content/drive/MyDrive/testdata/File 649.jpg:  A blue toothbrush, white cotton swabs, and a white soap bar rest on a white countertop, accompanied by a clear glass jar with white cotton balls.
+/content/drive/MyDrive/testdata/File 329.jpg:  A baseball pitcher in a blue uniform with red and white stripes and a blue cap prepares to throw, with a black glove and white and red striped pants in the foreground.
+/content/drive/MyDrive/testdata/File 330.jpg:  Four Oakland Athletics players in black and gold uniforms, with numbers 7, 22, 2, and 7, stand on a baseball field, engaged in conversation.
+/content/drive/MyDrive/testdata/File 325.jpg:  A young skateboarder in orange performs a trick on a concrete ramp in a skatepark, surrounded by trees and buildings.
+/content/drive/MyDrive/testdata/File 332.jpg:  Two cyclists in white and blue jerseys compete in a race on a cobblestone street, with spectators and a blue and white banner in the background.
+/content/drive/MyDrive/testdata/File 333.jpg:  Two soccer players, one in red and the other in green, compete for the ball on a lush green field, with a white fence and trees in the background.
+/content/drive/MyDrive/testdata/File 545.jpg:  A brown bird perches on a wooden dock, with a gray boat named "STA-4462" and a backdrop of trees and mountains.
+/content/drive/MyDrive/testdata/File 544.jpg:  A silver Smart car and two bicycles are parked on a city sidewalk, with a red brick building and parked cars in the background.
+/content/drive/MyDrive/testdata/File 334.jpg:  A person paddleboards on a calm, blue-green ocean, wearing a black tank top and gray shorts, with a sandy beach and trees in the background.
+/content/drive/MyDrive/testdata/File 335.jpg:  Two children play in the ocean, one in a red shirt and the other in a blue shirt, with the child in red smiling and the child in blue holding a blue toy.
+/content/drive/MyDrive/testdata/File 036.jpg:  Two men share a meal at a red-clothed table, with one man savoring a sandwich and the other holding a plate of food, in an outdoor setting with a glass roof.
+/content/drive/MyDrive/testdata/File 239.jpg:  A man in a purple shirt and sunglasses pets a giraffe's head in a zoo enclosure, with a wooden fence and trees in the background.
+/content/drive/MyDrive/testdata/File 837.jpg:  Big Ben, the iconic Elizabeth Tower, stands tall in London, England, with a clock face and spire, surrounded by a lush green lawn and a clear blue sky.
+/content/drive/MyDrive/testdata/File 337.jpg:  People play soccer on a beach, with a white ball and a group of players in the foreground, while a wooden hut and beach umbrellas are visible in the background.
+/content/drive/MyDrive/testdata/File 336.jpg:  A tennis player in white and orange swings a yellow racket on a red clay court, with a blue and white sponsor's sign and a man in a blue sweater in the background.
+/content/drive/MyDrive/testdata/File 037.jpg:  A family of three, including a woman in a red dress and two children, stands under a black gate in a rainy city, holding umbrellas and gazing at a parked car.
+/content/drive/MyDrive/testdata/File 548.jpg:  A black steam locomotive, numbered 34067, pulls a green passenger car labeled "The Cathedrals Express" at a bustling train station, with a yellow line and platform edge.
+/content/drive/MyDrive/testdata/File 547.jpg:  A motorcyclist in a black jacket and helmet performs a wheelie on a black motorcycle with orange and yellow accents, set against a backdrop of a chain-link fence and a building.
+/content/drive/MyDrive/testdata/File 546.jpg:  Six motorcross riders in vibrant suits and helmets compete in a race, with a red and white track and sponsor banners in the background.
+/content/drive/MyDrive/testdata/File 038.jpg:  Three individuals enjoy ice cream cones on a park bench, surrounded by lush greenery and a blue bicycle.
+/content/drive/MyDrive/testdata/File 338.jpg:  Two individuals, one in a black helmet and orange life vest, and the other in a green helmet and red life vest, prepare to enter a blue pool with a metal railing.
+/content/drive/MyDrive/testdata/File 550.jpg:  A gray fighter jet with two engines and a single propeller soars through the sky, accompanied by a smaller jet in the distance.
+/content/drive/MyDrive/testdata/File 549.jpg:  A red double-decker tour bus, adorned with colorful graffiti and the words "Liverpool City Sightseeing", parks on a cobblestone street, with a blue sky and trees in the background.
+/content/drive/MyDrive/testdata/File 726.jpg:  A modern bathroom features a black countertop, white sink, and toilet, with a green rug, white towel, and blue soap dispenser, complemented by a black and white patterned shower curtain and a green trash can.
+/content/drive/MyDrive/testdata/File 650.jpg:  A pile of six chocolate umbrellas in various colors and sizes, with white handles, rests on a beige countertop.
+/content/drive/MyDrive/testdata/File 039.jpg:  Children gather around a green backdrop with a white cow and stars, listening to a woman read a story about a bear and a hippo, with a red banner reading "Pajama Party!"
+/content/drive/MyDrive/testdata/File 339.jpg:  A man in pink and a child in black and white ride a tandem bicycle with a basket, traversing a park with lush greenery and people strolling.
+/content/drive/MyDrive/testdata/File 240.jpg:  A young girl in pink and white interacts with a brown dog in a park, surrounded by people and a colorful kite.
+/content/drive/MyDrive/testdata/File 341.jpg:  A young skateboarder, dressed in white and gray, performs a daring trick on a black skateboard with yellow wheels, suspended in mid-air against a backdrop of a concrete skatepark and a grassy field.
+/content/drive/MyDrive/testdata/File 340.jpg:  Two individuals in black wetsuits walk along a sandy beach, carrying surfboards, with a clear blue sky and ocean waves in the background.
+/content/drive/MyDrive/testdata/File 838.jpg:  Big Ben, a renowned London landmark, stands tall with a golden clock face and spire, surrounded by a bustling cityscape and a clear blue sky.
+/content/drive/MyDrive/testdata/File 342.jpg:  A young child in a pink shirt and yellow shorts jumps on a green couch, accompanied by a white stuffed animal, in a cozy living room with white walls and a blue blanket.
+/content/drive/MyDrive/testdata/File 839.jpg:  A Gothic-style church with a tall clock tower, pointed arches, and intricate carvings stands against a clear blue sky.
+/content/drive/MyDrive/testdata/File 344.jpg:  A man in a yellow jacket rides a black bicycle with a red bag, while others in red jackets and black helmets follow behind in a park setting.
+/content/drive/MyDrive/testdata/File 343.jpg:  A woman in pink and a child in yellow share a moment of joy, holding pizza slices and standing on a concrete sidewalk.
+/content/drive/MyDrive/testdata/File 345.jpg:  Two young girls in purple jerseys play soccer on a lush green field, with a black SUV and silver minivan parked nearby.
+/content/drive/MyDrive/testdata/File 347.jpg:  A soccer player in a white jersey kicks the ball towards the goal, pursued by teammates in maroon jerseys, with a lush green field and trees in the background.
+/content/drive/MyDrive/testdata/File 346.jpg:  Two soccer players, one in red and the other in white, compete for the ball on a lush green field, with a referee and advertising banners in the background.
+/content/drive/MyDrive/testdata/File 551.jpg:  A red double-decker bus, numbered 12, parks on a street with a blue and white striped building and a roller coaster in the background.
+/content/drive/MyDrive/testdata/File 241.jpg:  A man in white and khaki crouches on a grassy field, while a dog leaps to catch a yellow frisbee, with a crowd of spectators in the background.
+/content/drive/MyDrive/testdata/File 350.jpg:  A surfer in a black wetsuit rides a yellow surfboard on a green wave, with a small island in the distance and a clear blue sky above.
+/content/drive/MyDrive/testdata/File 552.jpg:  A white and blue bus, numbered 36, waits at a bus stop with a "Volence Against Violence" advertisement, parked on a gravel road with a green fence and clear blue sky in the background.
+/content/drive/MyDrive/testdata/File 349.jpg:  Two men play beach volleyball, with one preparing to hit the ball and the other jumping to block, while a blue and white net stands ready in the background.
+/content/drive/MyDrive/testdata/File 348.jpg:  A woman in a blue tank top and black pants serves food to a group of children at a picnic table in a park, with a red cooler and picnic basket nearby.
+/content/drive/MyDrive/testdata/File 351.jpg:  A man in a black t-shirt and blue jeans rides a vibrant orange motorcycle with a large windshield and black leather saddlebags, parked on a street with a brick building and green awning in the background.
+/content/drive/MyDrive/testdata/File 243.jpg:  A white horse with a saddle and bridle stands in a fenced area, accompanied by two men in a rural setting with a mountain backdrop.
+/content/drive/MyDrive/testdata/File 244.jpg:  A young man in a white shirt and black helmet rides a brown horse with a black mane and tail, preparing to jump over a pink and white striped obstacle in a verdant field.
+/content/drive/MyDrive/testdata/File 353.jpg:  Three individuals engage in a meeting in a modern office, with one presenting on a large screen, another using a laptop, and the third attentively listening.
+/content/drive/MyDrive/testdata/File 354.jpg:  A newlywed couple cuts their white wedding cake with a knife and fork, surrounded by guests seated at tables under a string of lights.
+/content/drive/MyDrive/testdata/File 040.jpg:  A family of six gathers around a table in a cozy backyard, sharing a meal of salad, fruit, and bread, with a brick wall backdrop.
+/content/drive/MyDrive/testdata/File 242.jpg:  A woman in a red shirt and straw hat leads a brown cow with a blue halter along a path in a park, with a rock wall and trees in the background.
+/content/drive/MyDrive/testdata/File 352.jpg:  A woman in an orange dress celebrates her birthday with a white dog and a birthday cake with candles, set against a green lawn and trees.
+/content/drive/MyDrive/testdata/File 041.jpg:  A young woman in a red and white polka dot shirt sits on a subway train, engrossed in her phone, with a brown messenger bag and map on the seat beside her.
+/content/drive/MyDrive/testdata/File 042.jpg:  Two young girls, dressed in pink and blue, hold a colorful kite in a verdant field, with one girl gazing at the kite and the other holding the string.
+/content/drive/MyDrive/testdata/File 841.jpg:  A red brick clock tower with a white clock face and black numbers stands tall against a clear blue sky, accompanied by a modern glass skyscraper in the background.
+/content/drive/MyDrive/testdata/File 355.jpg:  A man in a black shirt and blue jeans waits on a subway platform, carrying a black bag, with a blue train passing by and a clock hanging above.
+/content/drive/MyDrive/testdata/File 840.jpg:  The Empire State Building, a white skyscraper with a pointed roof and spire, towers over the cityscape, accompanied by a street sign and a black lamppost.
+/content/drive/MyDrive/testdata/File 245.jpg:  A person in blue jeans and black shoes holds a black camera, capturing a curious gray and brown cat on a brick path.
+/content/drive/MyDrive/testdata/File 043.jpg:  A couple, dressed in black and white, walks hand-in-hand on a brick path in a lush park, holding a black umbrella and red flowers.
+/content/drive/MyDrive/testdata/File 554.jpg:  A tan and white dog stands on a white boat with a blue buoy, gazing at the camera in a tranquil blue-green body of water.
+/content/drive/MyDrive/testdata/File 046.jpg:  Two individuals, dressed in orange and black, sit on a bench in a brick-walled room, engrossed in their phones.
+/content/drive/MyDrive/testdata/File 044.jpg:  Two men in suits, one in a gray suit and the other in a black suit, walk on a red carpet towards a blue car.
+/content/drive/MyDrive/testdata/File 047.jpg:  Two chefs in white uniforms work in a professional kitchen, one stirring a pot and the other holding a large metal spoon, with a large oven and stainless steel range hood in the background.
+/content/drive/MyDrive/testdata/File 246.jpg:  A young man in a black hoodie holds a black and white cat, while another person in a white top hat observes in the background.
+/content/drive/MyDrive/testdata/File 045.jpg:  A young man in a white t-shirt, holding a camera and a smartphone, smiles in a cozy room with a framed picture and a computer monitor.
+/content/drive/MyDrive/testdata/File 553.jpg:  A red and white boat with a blue and white striped awning, adorned with orange buoys and a Greek flag, is docked at a rocky shore with a mountainous backdrop.
+/content/drive/MyDrive/testdata/File 048.jpg:  Four individuals in business attire, each holding a toy gun, stand in front of a white wall with a window, creating a playful and casual atmosphere.
+/content/drive/MyDrive/testdata/File 651.jpg:  A slice of chocolate cake with white chocolate drizzle and a bite taken out of it sits on an orange plate, accompanied by a white coffee cup with orange and black geometric design.
+/content/drive/MyDrive/testdata/File 049.jpg:  A woman in a black sweater and a baby in a pink sweater sit on a couch, with the woman holding a black flip phone and the baby looking at it.
+/content/drive/MyDrive/testdata/File 050.jpg:  Two individuals, dressed in blue and black, engage in a video game session in a cozy living room, holding white controllers and standing on a red rug.
+/content/drive/MyDrive/testdata/File 051.jpg:  A young man in a gray sweater and scarf enjoys a meal at a table with a floral teapot, white teacup, and plate of pastries, accompanied by a newspaper and a painting in the background.
+/content/drive/MyDrive/testdata/File 052.jpg:  Three individuals gather around a table in a cozy kitchen, with a woman on the phone, a man in a black t-shirt, and a woman in a purple tank top.
+/content/drive/MyDrive/testdata/File 053.jpg:  A young couple shares a joyful moment at a restaurant, seated at a table with a green and white floral patterned wall backdrop.
+/content/drive/MyDrive/testdata/File 056.jpg:  A young boy in a blue and white striped shirt and a woman in a blue and white striped shirt share a moment of connection on a wooden table, with a laptop open in front of them.
+/content/drive/MyDrive/testdata/File 055.jpg:  Three individuals converse at a table in a modern restaurant, with a green abstract painting on the wall and a red brick wall in the background.
+/content/drive/MyDrive/testdata/File 357.jpg:  A batter in a navy blue uniform swings at an incoming pitch, while a catcher in red and blue crouches behind home plate, with a blue fence and spectators in the background.
+/content/drive/MyDrive/testdata/File 054.jpg:  A man in a white shirt, red tie, and blue sunglasses holds a black camera with a red strap, capturing a self-portrait in a white-walled room.
+/content/drive/MyDrive/testdata/File 356.jpg:  A batter in white and blue swings at a pitch, while a catcher in black and blue crouches behind, with a pitcher in red and white in the background.
+/content/drive/MyDrive/testdata/File 247.jpg:  A man in a black shirt and hat holds a red rope, while a woman in a yellow shirt and black hat observes, with a gray horse and red fence in the background.
+/content/drive/MyDrive/testdata/File 358.jpg:  A jockey in a red and white uniform, with a red helmet and goggles, sits atop a gray horse, holding reins and gazing into the distance.
+/content/drive/MyDrive/testdata/File 360.jpg:  Two children in blue and green jackets ski down a snowy mountain, surrounded by other skiers and snowboarders, with a ski lift and blue tarp in the background.
+/content/drive/MyDrive/testdata/File 359.jpg:  A man and a child, holding hands, walk towards the ocean with a yellow surfboard, leaving footprints in the wet sand.
+/content/drive/MyDrive/testdata/File 361.jpg:  Four surfers, dressed in black wetsuits, prepare for a day of surfing on a sandy beach, with a pink ball and blue surfboard nearby.
+/content/drive/MyDrive/testdata/File 842.jpg:  A stone church with a tall clock tower and a small shrine stands in a snowy graveyard, surrounded by trees and houses.
+/content/drive/MyDrive/testdata/File 652.jpg:  A white blender with a clear glass pitcher holds a mixture of brown and white waffle pieces, placed on a black countertop.
+/content/drive/MyDrive/testdata/File 363.jpg:  A young boy in black t-shirt and jeans performs a skateboarding trick on a blue ramp, with a red and white skateboard and black rail nearby.
+/content/drive/MyDrive/testdata/File 362.jpg:  Four men in casual attire gather in a cozy kitchen, holding a red and white striped object and a green beer can, with a wooden cabinet and sailboat in the background.
+/content/drive/MyDrive/testdata/File 370.jpg:  A man in a blue sweater, glasses, and holding a blue and white striped umbrella, talks on a white cell phone in a tropical setting.
+/content/drive/MyDrive/testdata/File 367.jpg:  A motorcyclist in a blue and black suit, helmet, and red and white dirt bike, with the number 1, navigates a challenging dirt track.
+/content/drive/MyDrive/testdata/File 843.jpg:  The Liver Building, a Gothic-style landmark in Liverpool, England, stands tall with a clock tower and green dome, accompanied by a statue of a man on a horse and a modern skyscraper in the background.
+/content/drive/MyDrive/testdata/File 248.jpg:  A young boy in blue and a woman in red guide a white sheep with a red halter at a bustling fair, with a sign for "Spinning Contest Sponsors" and "Indigo Hound" in the background.
+/content/drive/MyDrive/testdata/File 369.jpg:  A young man in a black wetsuit holds a white surfboard with a green logo, standing on a rocky beach with the ocean and a bird in flight in the background.
+/content/drive/MyDrive/testdata/File 366.jpg:  A rugby player in a green and black striped jersey, black shorts, and black and yellow striped socks, prepares to kick the ball, while teammates in red and yellow jerseys attempt to tackle him.
+/content/drive/MyDrive/testdata/File 371.jpg:  Two men in white shirts, one adjusting the other's red tie, stand in front of a white wall with a framed picture.
+/content/drive/MyDrive/testdata/File 365.jpg:  A motocross rider in a white and blue suit, number 14, leans forward on a yellow and green Suzuki motorcycle, with a blurred background.
+/content/drive/MyDrive/testdata/File 249.jpg:  A young woman in a red and white striped shirt and straw hat kisses a white horse with a green halter in a lush green field.
+/content/drive/MyDrive/testdata/File 368.jpg:  Three individuals play frisbee in a park, with one in orange, another in white, and a third in black, amidst a lush green field and trees.
+/content/drive/MyDrive/testdata/File 364.jpg:  A skateboarder in black t-shirt and jeans performs a trick on a green skateboard with black wheels, surrounded by a concrete skatepark with graffiti-covered ramps and a metal railing.
+/content/drive/MyDrive/testdata/File 205.jpg:  Two horses, one brown and one white, stand in a dirt field with a wooden shelter and trees in the background.
+/content/drive/MyDrive/testdata/File 373.jpg:  Two silhouetted figures, one holding a surfboard, stand on a rocky shore at sunset, with the ocean and sky in a deep blue and orange palette.
+/content/drive/MyDrive/testdata/File 377.jpg:  Two female soccer players, one in blue and the other in white, compete for the ball on a lush green field, with a yellow goalpost and trees in the background.
+/content/drive/MyDrive/testdata/File 206.jpg:  A black dog and an orange cat share a cozy moment on a blue and green plaid bedspread, with the dog sleeping and the cat resting.
+/content/drive/MyDrive/testdata/File 375.jpg:  Two snowboarders, dressed in black and beige, prepare for a day of snowboarding on a snowy mountain, surrounded by other snowboarders and a ski lift.
+/content/drive/MyDrive/testdata/File 372.jpg:  A man in a yellow jacket and black backpack rides a yellow bicycle with a black and white spotted dog in a gray crate, accompanied by a black car and a red bicycle in a rural setting.
+/content/drive/MyDrive/testdata/File 376.jpg:  A man in blue shirt and shorts, holding a red and black racket, stands on a green tennis court, with a basket of tennis balls nearby.
+/content/drive/MyDrive/testdata/File 374.jpg:  A female tennis player, dressed in blue, swings her racket with precision on a green court, her body poised in anticipation.
+/content/drive/MyDrive/testdata/File 378.jpg:  Children in gray and white jerseys play soccer on a vibrant green field, with one child kicking a blue ball and others running towards it.
+/content/drive/MyDrive/testdata/File 380.jpg:  A surfer in a black wetsuit rides a white surfboard with a green logo on a breaking wave, with the ocean and sky as the backdrop.
+/content/drive/MyDrive/testdata/File 250.jpg:  A young girl in a green shirt holds a black bird with orange and white feathers on her left hand, gazing at the bird with a serious expression.
+/content/drive/MyDrive/testdata/File 057.jpg:  A man in a red shirt and a woman in a red and black floral shirt walk together under a red umbrella, with a yellow sign and trees in the background.
+/content/drive/MyDrive/testdata/File 379.jpg:  A man in a blue shirt and white shorts converses with a man in a white shirt and black pants, seated on orange bean bags, with a red and white tennis racket nearby.
+/content/drive/MyDrive/testdata/File 381.jpg:  A skateboarder in a black jacket, white helmet, and black pants crouches on a blue skateboard with white wheels, performing a trick on a gray asphalt road.
+/content/drive/MyDrive/testdata/File 207.jpg:  A tabby cat with green eyes rests on a wooden desk, accompanied by a black phone displaying "321", a white computer monitor, and a black keyboard.
+/content/drive/MyDrive/testdata/File 418.jpg:  A white plate holds a colorful array of food, including orange carrots, green spinach, golden onion rings, and a piece of bread with herbs.
+/content/drive/MyDrive/testdata/File 383.jpg:  Two soccer players, one in blue and the other in yellow, compete for the ball on a lush green field, with spectators and a red and white striped umbrella in the background.
+/content/drive/MyDrive/testdata/File 419.jpg:  A donut sandwich with a hole in the middle, filled with bacon and cheese, is served on a white plate with a side salad of mixed greens, tomatoes, and red onions.
+/content/drive/MyDrive/testdata/File 382.jpg:  A snowboarder in a green and yellow jacket performs a mid-air flip, surrounded by snow-covered mountains and other snowboarders.
+/content/drive/MyDrive/testdata/File 420.jpg:  A man in a blue shirt savors a hot dog with mustard and onions in a bustling mall food court.
+/content/drive/MyDrive/testdata/File 387.jpg:  A young woman in blue and black, wearing a helmet, rides a brown horse with a blue saddle pad in a rustic wooden stable.
+/content/drive/MyDrive/testdata/File 388.jpg:  A motorcycle racer in a red and white suit, number 9, leans into a turn on a red motorcycle with white and blue accents, displaying sponsor logos.
+/content/drive/MyDrive/testdata/File 386.jpg:  Two tennis players, one in blue and the other in white, engage in a match on a red clay court, with a green advertising board and spectators in the background.
+/content/drive/MyDrive/testdata/File 385.jpg:  A snowboarder in a red and white jacket, black pants, and helmet executes a trick on a green and white snowboard, with a clear blue sky and trees in the background.
+/content/drive/MyDrive/testdata/File 421.jpg:  A table set with a variety of dishes, including a large white plate with a dark-colored dish, a yellow bowl with a green sauce, and a white plate with a red sauce, is surrounded by a white tablecloth.
+/content/drive/MyDrive/testdata/File 208.jpg:  A group of sheep, including adult sheep and lambs, graze in a lush green field, with a fence and hill in the background.
+/content/drive/MyDrive/testdata/File 384.jpg:  A young woman in blue and white swings a tennis racket on a green court, with a green banner displaying "head.com" in the background.
+/content/drive/MyDrive/testdata/File 422.jpg:  A white plate holds a meal of chicken in a yellow sauce, broccoli, and yellow rice, garnished with red pomegranate seeds and a silver fork.
+/content/drive/MyDrive/testdata/File 423.jpg:  A white plate holds two donuts: a chocolate-covered donut with pink and green sprinkles and a white donut with a crunchy topping.
+/content/drive/MyDrive/testdata/File 424.jpg:  A young child in a blue bib eats a slice of cake from a white plate, seated in a wooden high chair with a green and white striped blanket.
+/content/drive/MyDrive/testdata/File 392.jpg:  A young baseball player swings a red and black bat, wearing a green jersey and black pants, with a chain-link fence and trees in the background.
+/content/drive/MyDrive/testdata/File 425.jpg:  A wooden table holds two plates of Chinese cuisine: a white plate with noodles, chicken, and sauce, and a red Coca-Cola can with a straw.
+/content/drive/MyDrive/testdata/File 426.jpg:  A white plate holds a meal of chicken, broccoli, and peas, accompanied by a bowl of red sauce and a side of fresh fruit.
+/content/drive/MyDrive/testdata/File 389.jpg:  A young man in a blue soccer uniform kicks a white ball with black pentagons on a lush green field, with a fence and building in the background.
+/content/drive/MyDrive/testdata/File 391.jpg:  Two soccer players, one in blue and the other in white, compete for the ball on a green turf field, with spectators and orange cones in the background.
+/content/drive/MyDrive/testdata/File 390.jpg:  Two soccer players in white and navy blue compete for the ball, with one leaping to head it and the other diving to intercept, while a goalkeeper in red watches.
+/content/drive/MyDrive/testdata/File 427.jpg:  A white plate with a floral pattern holds a variety of food items, including a green and yellow dish, red and green vegetables, and a yellow pickle.
+/content/drive/MyDrive/testdata/File 555.jpg:  A man in a black jacket and blue jeans sits on a white electric motorcycle with a black seat and gold accents, parked on a city street with a red curb and buildings in the background.
+/content/drive/MyDrive/testdata/File 395.jpg:  A man in a navy blue shirt swings a wooden bat with a yellow stripe, while another man in a green shirt sits on a bench in the background.
+/content/drive/MyDrive/testdata/File 394.jpg:  Two individuals play soccer in a park, with one kicking the ball and the other running towards it, surrounded by lush greenery and a clear blue sky.
+/content/drive/MyDrive/testdata/File 251.jpg:  A man in a white shirt and black boots wades through a shallow watering hole, accompanied by a brown dog, while a flock of sheep graze in the background.
+/content/drive/MyDrive/testdata/File 428.jpg:  A woman in a black shirt holds a large pizza with red sauce, white cheese, and various toppings, set against a wooden wall with candles.
+/content/drive/MyDrive/testdata/File 429.jpg:  A black frying pan on a white stovetop holds a vibrant stir-fry of chicken, broccoli, and mushrooms, with a black spatula resting on the side.
+/content/drive/MyDrive/testdata/File 396.jpg:  A baseball player swings a red bat, while a teammate in a blue jersey and white pants stands ready, with spectators in the background.
+/content/drive/MyDrive/testdata/File 431.jpg:  A burger with a dark brown patty, light brown sauce, and a sprinkle of sesame seeds sits on a white plate, accompanied by steamed broccoli.
+/content/drive/MyDrive/testdata/File 393.jpg:  A baseball game unfolds on a lush green field, with a batter in white and red, a catcher in red and black, and an umpire in gray, as the pitcher prepares to throw.
+/content/drive/MyDrive/testdata/File 209.jpg:  A brown and white dog stands on a porch, gazing out at a suburban street lined with trees and houses, with a black and white striped bench nearby.
+/content/drive/MyDrive/testdata/File 430.jpg:  A white plate holds a turkey sandwich with lettuce, tomato, and mayonnaise, accompanied by a bowl of shredded turkey and a wooden cutting board.
+/content/drive/MyDrive/testdata/File 397.jpg:  A man in a green shirt and brown cap smiles while fishing in a white boat, accompanied by a woman in a white shirt and hat.
+/content/drive/MyDrive/testdata/File 402.jpg:  A female tennis player, dressed in black and red, prepares to strike a yellow ball on a blue court, with a blurred crowd in the background.
+/content/drive/MyDrive/testdata/File 432.jpg:  A man in a white shirt stands behind a vibrant vegetable stand, displaying a variety of fresh produce, including purple eggplants, red peppers, green beans, and red tomatoes.
+/content/drive/MyDrive/testdata/File 405.jpg:  A man in a gray shirt photographs a woman in a pink shirt, while another woman in a red shirt sits on the floor, with a laptop displaying a picture of a face and a man in a green shirt in the background.
+/content/drive/MyDrive/testdata/File 398.jpg:  A young girl in a colorful dress smiles at the camera, with a silver oven and two pizzas baking inside.
+/content/drive/MyDrive/testdata/File 403.jpg:  Six skiers, dressed in vibrant jackets and hats, prepare for a day on the slopes, with a breathtaking snowy mountain range in the background.
+/content/drive/MyDrive/testdata/File 407.jpg:  A batter in a blue and white uniform swings at a pitch, while a catcher in red and white and an umpire in black observe, with a "Batter Up" sign in the background.
+/content/drive/MyDrive/testdata/File 556.jpg:  A beige and green bus, numbered 52, waits at a bus stop in a bustling city, displaying "52 BEECHWOOD" on its front.
+/content/drive/MyDrive/testdata/File 404.jpg:  Two soccer players, one in orange and the other in green, compete for the ball on a lush green field, with spectators and advertisements in the background.
+/content/drive/MyDrive/testdata/File 399.jpg:  A snowboarder in a pink jacket and blue pants performs a trick mid-air, while a crowd of spectators in colorful jackets and hats watches from a snowy mountain slope.
+/content/drive/MyDrive/testdata/File 408.jpg:  A young boy in white and blue performs a skateboard trick in a concrete skatepark, surrounded by other skateboarders and spectators.
+/content/drive/MyDrive/testdata/File 400.jpg:  A tennis player in black and white executes a forehand shot on a green court, with a yellow ball suspended in mid-air and a scoreboard displaying "Rado" and "Swiss Watches".
+/content/drive/MyDrive/testdata/File 401.jpg:  A man in a white lab coat talks on the phone while seated on a bicycle with a red crate, parked on a busy street with a green bus and parked cars in the background.
+/content/drive/MyDrive/testdata/File 406.jpg:  A cozy living room features a large window with orange blinds, a wooden entertainment center, a television, and a beige sofa with a green throw blanket, bathed in warm light.
+/content/drive/MyDrive/testdata/File 440.jpg:  A cozy table setting features two blue plates with turkey, stuffing, green beans, and potatoes, accompanied by a bottle of Zins wine, a mug, and a can of cranberry sauce.
+/content/drive/MyDrive/testdata/File 435.jpg:  A breakfast spread features golden brown pancakes, scrambled eggs, fresh fruit, and granola, arranged on a white plate with a blue rim.
+/content/drive/MyDrive/testdata/File 433.jpg:  A white plate with a gold floral pattern holds a serving of green asparagus, golden brown fried chicken, and bright green broccoli.
+/content/drive/MyDrive/testdata/File 438.jpg:  A white plate holds a vibrant meal of broccoli, red sauce, and golden-brown fried potatoes, accompanied by a glass of orange juice and a silver fork.
+/content/drive/MyDrive/testdata/File 439.jpg:  A white plate holds a sandwich with lettuce, tomato, and chicken, accompanied by coleslaw and potato chips, with a glass of iced tea on a dark wooden table.
+/content/drive/MyDrive/testdata/File 434.jpg:  A slice of chocolate cake with a red cherry and orange flower garnish is served on a white plate, accompanied by a small orange slice and a white teapot.
+/content/drive/MyDrive/testdata/File 437.jpg:  A white plate with a blue and yellow label holds a fried egg, steak, rice, tomatoes, and fried potatoes, accompanied by a bottle of soda.
+/content/drive/MyDrive/testdata/File 441.jpg:  A white bowl holds a vibrant noodle dish with chicken, carrots, and green herbs, accompanied by black chopsticks on a wooden table.
+/content/drive/MyDrive/testdata/File 442.jpg:  A black wire basket holds a vibrant fruit arrangement, including two yellow bananas, a green apple, and a brown pear.
+/content/drive/MyDrive/testdata/File 443.jpg:  A black cordless drill with a red handle and yellow label, a blue bowl of chocolate mixture, and a yellow box of suklaamousse are arranged on a wooden table.
+/content/drive/MyDrive/testdata/File 436.jpg:  A gray and white cat with yellow eyes licks its nose while gazing at a silver tray of red and green apples, with a pink flower vase in the background.
+/content/drive/MyDrive/testdata/File 447.jpg:  A person cuts a chocolate donut with a knife, surrounded by a variety of donuts and pastries on a wooden countertop, with a yellow microwave and red flowers in the background.
+/content/drive/MyDrive/testdata/File 445.jpg:  A white plate holds a sandwich with lettuce, tomato, and cucumber, accompanied by a bunch of kale and a red sauce.
+/content/drive/MyDrive/testdata/File 444.jpg:  A frying pan with three golden brown donuts in bubbling oil sits on a stovetop, with a metal utensil resting on the side.
+/content/drive/MyDrive/testdata/File 446.jpg:  A white background features a silver spoon with a vibrant fruit salad, including kiwi, pineapple, strawberry, banana, and orange segments.
+/content/drive/MyDrive/testdata/File 844.jpg:  The iconic San Francisco skyline features the Ferry Building, a white clock tower with a red roof, and the San Francisco Giants, a tall yellow skyscraper, against a cloudy sky.
+/content/drive/MyDrive/testdata/File 845.jpg:  A blue cow statue with white stars and the phrase "Keep standing up, people do" stands on a pedestal in a city square, with a Gothic-style building and trees in the background.
+/content/drive/MyDrive/testdata/File 448.jpg:  A black frying pan with a silver handle contains a vibrant stir-fry of chicken, broccoli, carrots, and bell peppers, with a red sauce and steam rising from the pan.
+/content/drive/MyDrive/testdata/File 557.jpg:  A white food truck, "The Crooked Fork Creative Cooks on Wheels," parks on a city street, displaying a red and white logo and contact information.
+/content/drive/MyDrive/testdata/File 846.jpg:  The Sultan Abdul Samad Building in Kuala Lumpur, Malaysia, features a white clock tower with a red dome and a Malaysian flag, set against a clear blue sky.
+/content/drive/MyDrive/testdata/File 252.jpg:  A brown horse, adorned with a blue and white blanket, stands on a grassy field, accompanied by two men in blue jackets and a man in a black jacket, with a building and trees in the background.
+/content/drive/MyDrive/testdata/File 452.jpg:  A young man in a blue and white checkered shirt savors a large, golden-brown pancake with red sauce and meat, accompanied by a glass of beer and a bottle of beer.
+/content/drive/MyDrive/testdata/File 450.jpg:  A young girl in a white shirt and red bow smiles while holding a plate of three cupcakes with white frosting, pink and yellow sprinkles, and a red bow.
+/content/drive/MyDrive/testdata/File 449.jpg:  A white plate holds a vibrant array of fresh vegetables, including orange carrots, green broccoli, red tomatoes, and a brown sweet potato, arranged on a rustic wooden table.
+/content/drive/MyDrive/testdata/File 558.jpg:  A white airplane with two engines soars through a clear blue sky, with a runway and grassy field in the foreground.
+/content/drive/MyDrive/testdata/File 559.jpg:  A man in a black t-shirt and blue shorts adjusts a bicycle's rear tire, while a parking meter and blurred figures of people and a bus occupy the background.
+/content/drive/MyDrive/testdata/File 560.jpg:  A motorcyclist in a black leather suit and helmet, number 6, rides a black and silver motorcycle with a yellow number on a race track.
+/content/drive/MyDrive/testdata/File 451.jpg:  A bustling fruit and vegetable market features a vibrant display of red apples, yellow squash, green grapes, and red cherries, with a clock and a person in the background.
+/content/drive/MyDrive/testdata/File 847.jpg:  The Palace of Westminster, also known as the Houses of Parliament, is illuminated at night, with the Elizabeth Tower and Big Ben visible in the background.
+/content/drive/MyDrive/testdata/File 916.jpg:  A white sign with black text and a red arrow points to Culinary Arts Competition, accompanied by a red stop sign and a large white building in the background.
+/content/drive/MyDrive/testdata/File 455.jpg:  A red card with a white dog and a "Dog Cookies" message sits on a table, surrounded by a variety of colorful donuts with sprinkles and a glass jar.
+/content/drive/MyDrive/testdata/File 453.jpg:  A breakfast spread features a sunny-side-up egg, crispy bacon, sausage, baked beans, and toast, accompanied by a cup of coffee and a sugar packet on a black tray.
+/content/drive/MyDrive/testdata/File 454.jpg:  A person's hands hold a pink and white striped plate with a slice of cake and a green leaf, placed on a yellow and white checkered blanket.
+/content/drive/MyDrive/testdata/File 848.jpg:  Memorial Tower, a tall white clock tower with a red roof and clock face, stands against a clear blue sky, accompanied by a white building with columns and a sign reading "Memorial Tower".
+/content/drive/MyDrive/testdata/File 461.jpg:  Three individuals gather around a table in a lush garden, sharing a meal of pizza, salad, and breadsticks, with a rustic stone building in the background.
+/content/drive/MyDrive/testdata/File 458.jpg:  A black grill sizzles with three pink sausages, two red hamburgers, and two red onions, with a white plastic container of meat in the background.
+/content/drive/MyDrive/testdata/File 850.jpg:  A red brick building with a clock tower and spire stands amidst a tree-lined street, with a clear blue sky and a distant building visible.
+/content/drive/MyDrive/testdata/File 561.jpg:  Four vintage airplanes, including a black and white biplane, a gray and white propeller plane, a black and white propeller plane, and a black and white jet, fly in a diamond formation against a clear blue sky.
+/content/drive/MyDrive/testdata/File 849.jpg:  A grand red brick building with arched windows, balconies, and a clock tower stands in London, UK, with a black car parked in front and a clear blue sky overhead.
+/content/drive/MyDrive/testdata/File 917.jpg:  A bustling New York City street at night features a yellow taxi, a red and white striped building, and a woman in a red coat, with a clock tower and fireworks in the background.
+/content/drive/MyDrive/testdata/File 460.jpg:  A man in a white shirt and blue cap examines a vibrant fruit and vegetable stand, featuring bananas, oranges, and other colorful produce.
+/content/drive/MyDrive/testdata/File 457.jpg:  A young girl in a pink shirt cuts into a chocolate cake with chocolate-covered pretzels on a wooden table, with a window and wooden chair in the background.
+/content/drive/MyDrive/testdata/File 456.jpg:  A white coffee cup with a red rim and a slice of yellow cake with a red rim sit on a wooden table, accompanied by a fork and a glass of water.
+/content/drive/MyDrive/testdata/File 459.jpg:  A young girl in a blue shirt slices a pizza on a wooden board, surrounded by bicycles and a blue recycling bin, with a white house in the background.
+/content/drive/MyDrive/testdata/File 465.jpg:  A man and a woman, both with mouths open, hold a large pizza topped with red peppers, cheese, and onions, with the man wearing glasses.
+/content/drive/MyDrive/testdata/File 463.jpg:  A golden-brown chicken breast, garnished with herbs, is served on a bed of creamy mashed potatoes and asparagus, accompanied by a silver fork.
+/content/drive/MyDrive/testdata/File 462.jpg:  A young child in a black t-shirt with orange text eats a green frosted donut with sprinkles, seated at a wooden table with a blue and yellow plate.
+/content/drive/MyDrive/testdata/File 464.jpg:  A wooden table displays a pineapple, bananas, apples, and oranges, arranged in a visually appealing manner.
+/content/drive/MyDrive/testdata/File 060.jpg:  A young girl in a white shirt and blue apron assists her mother in a kitchen, holding a knife and cutting board, while a pot of water and a basket of eggs are visible.
+/content/drive/MyDrive/testdata/File 562.jpg:  A motorcyclist in a red and white suit, number 17, leans into a turn on a dirt track, with a blurred background of trees and a blue sky.
+/content/drive/MyDrive/testdata/File 059.jpg:  A woman in a yellow shirt cuts a white cake with red strawberries on a wooden table, accompanied by a man in a white shirt and a man in a blue jacket.
+/content/drive/MyDrive/testdata/File 253.jpg:  A woman in black and a black dog playfully interact on a rocky beach, with the dog leaping into the air and the woman extending her hand.
+/content/drive/MyDrive/testdata/File 058.jpg:  A person holds a green flip phone with a camera lens, capturing a moment in a blurred background.
+/content/drive/MyDrive/testdata/File 062.jpg:  A man in a dark suit, blue shirt, and red and yellow striped tie smiles warmly against a brown background.
+/content/drive/MyDrive/testdata/File 061.jpg:  A man in a blue shirt and a woman in a white and black dress stand under an orange and white striped umbrella, with raindrops on a window in the background.
+/content/drive/MyDrive/testdata/File 468.jpg:  A young woman in a yellow jacket holds a Krispy Kreme coffee box, displaying a smile and a variety of donuts in a bustling coffee shop.
+/content/drive/MyDrive/testdata/File 255.jpg:  A man in black and white, wearing a black baseball cap, kneels on a blue mat, offering a treat to a brown and white dog wearing a pink bandana.
+/content/drive/MyDrive/testdata/File 063.jpg:  A man in a black suit and red bowtie, with blonde hair and black makeup, gazes directly at the camera, exuding a mysterious and intriguing aura.
+/content/drive/MyDrive/testdata/File 256.jpg:  Two brown horses, one with a blue saddle and blanket, gallop in a fenced arena, with a woman in red riding and a man in green observing.
+/content/drive/MyDrive/testdata/File 466.jpg:  A wooden table holds a variety of dishes, including a black pot of broccoli, a white bowl of rice, a white plate of meat, a white bowl of vegetables, and a white bowl of rice with a spoon.
+/content/drive/MyDrive/testdata/File 257.jpg:  A young girl in pink and white, accompanied by a brown cow, stands in a lush green field, with trees in the distance.
+/content/drive/MyDrive/testdata/File 258.jpg:  A man in a gray t-shirt embraces a white dog on a yellow couch in a cozy camper van, with a laptop and clock on the wall.
+/content/drive/MyDrive/testdata/File 467.jpg:  A young child in a red shirt eats pizza from a blue plate, accompanied by a purple cup and a plate of salad, while seated at a wooden table.
+/content/drive/MyDrive/testdata/File 254.jpg:  A young woman in a yellow and white striped shawl cradles a white lamb in a verdant landscape, with a red headscarf and a tree in the background.
+/content/drive/MyDrive/testdata/File 065.jpg:  Two men in suits share a slice of cake at a festive gathering, with a blue balloon and white tent in the background.
+/content/drive/MyDrive/testdata/File 851.jpg:  A grand, ornate stone building with a clock tower and American flag stands amidst lush greenery, exuding an air of antiquity and grandeur.
+/content/drive/MyDrive/testdata/File 469.jpg:  A wooden table displays a variety of fresh vegetables, including carrots, garlic, onions, asparagus, and bok choy, with a small container of sesame seeds and a bottle of soy sauce.
+/content/drive/MyDrive/testdata/File 853.jpg:  The Kaaba, a black cube-shaped building in Mecca, Saudi Arabia, stands tall with a golden clock tower and crescent moon, surrounded by a bustling cityscape.
+/content/drive/MyDrive/testdata/File 069.jpg:  A man in a green t-shirt, engaged in a phone conversation, stands in a cozy kitchen, surrounded by cooking utensils, ingredients, and a wooden rolling pin.
+/content/drive/MyDrive/testdata/File 260.jpg:  A man in a red Georgia Bulldogs shirt pets a black and white cow in a fenced area, with a woman in a red Georgia Bulldogs shirt holding a cup nearby.
+/content/drive/MyDrive/testdata/File 067.jpg:  A man in blue plaid pajamas, seated on a beige couch, works on a silver laptop, with a black coffee cup and white wall art nearby.
+/content/drive/MyDrive/testdata/File 852.jpg:  A tall, ornate clock tower with a pointed roof and clock face stands in a bustling city square, surrounded by buildings, trees, and a clear blue sky.
+/content/drive/MyDrive/testdata/File 471.jpg:  A wooden table holds a white cutting board with a tomato, a bowl of shrimp, a white container, a bottle of olive oil, and a plate of fresh vegetables.
+/content/drive/MyDrive/testdata/File 066.jpg:  A young woman holds a large butterfly-shaped kite with vibrant colors and a long tail, standing in a grassy field with a hill and trees in the distance.
+/content/drive/MyDrive/testdata/File 854.jpg:  A clock tower with a blue dome and yellow weather vane stands against a clear blue sky, accompanied by a gray chimney and a white clock face.
+/content/drive/MyDrive/testdata/File 068.jpg:  A couple in yellow and blue huddle under a red umbrella on a rainy night, with a blurred cityscape and a blue car in the background.
+/content/drive/MyDrive/testdata/File 470.jpg:  A breakfast spread features a green plate with toast, tomato, cheese, and green pepper, accompanied by a green coffee cup, orange juice, and a salt and pepper shaker.
+/content/drive/MyDrive/testdata/File 064.jpg:  A young man, dressed casually, works on a laptop at a wooden desk, surrounded by a brick wall and a blue backpack.
+/content/drive/MyDrive/testdata/File 472.jpg:  A white plate holds a sandwich with a red sauce, a yellow lemon wedge, and a side of green vegetables, accompanied by a white bowl of cucumber salad.
+/content/drive/MyDrive/testdata/File 259.jpg:  A rider in green jacket and blue jeans jumps a white horse over a red and white obstacle in a fenced dirt arena, with trees in the background.
+/content/drive/MyDrive/testdata/File 070.jpg:  A bustling street scene in Indonesia features a food stall, a blue motorcycle, and a yellow building, with people engaged in various activities.
+/content/drive/MyDrive/testdata/File 855.jpg:  A large, ornate building with two clock towers and a white awning stands in a city at night, with a tree and street lamp in the foreground.
+/content/drive/MyDrive/testdata/File 262.jpg:  Two men in blue and gray interact with a gray elephant in a fenced enclosure, offering food and petting the elephant's trunk.
+/content/drive/MyDrive/testdata/File 856.jpg:  A stone clock tower with a pointed roof and clock faces stands tall in a snowy landscape, surrounded by trees and a clear blue sky.
+/content/drive/MyDrive/testdata/File 261.jpg:  A man in a green jacket and black hat grooms a brown horse with a white blaze, standing in a snowy field with a mountain range in the background.
+/content/drive/MyDrive/testdata/File 473.jpg:  A white plate holds six toasted sandwiches with cucumber and cream, accompanied by a small white bowl of honey.
+/content/drive/MyDrive/testdata/File 474.jpg:  Two men in blue and yellow shirts enjoy pizza and beer at a table in a cozy restaurant, with a third person's hand reaching for a slice.
+/content/drive/MyDrive/testdata/File 072.jpg:  A man in a blue plaid shirt and sunglasses holds a black baseball bat, while a young boy in a blue shirt stands beside him, both on a porch with a brick house and blue awning.
+/content/drive/MyDrive/testdata/File 073.jpg:  A young woman in a pink shirt works on a laptop at a desk in a blue-walled office, surrounded by books, papers, and a green apple.
+/content/drive/MyDrive/testdata/File 918.jpg:  A red stop sign with the phrase "SOOK SO <E>IT STOP" is mounted on a pole, with a tree and power lines in the background.
+/content/drive/MyDrive/testdata/File 071.jpg:  A man in a black suit and pink tie holds a white paper and green pen, standing in front of a bustling street scene with a red awning and yellow building.
+/content/drive/MyDrive/testdata/File 858.jpg:  Big Ben clock tower, with its white clock faces and black numbers, stands tall against a cloudy sky, accompanied by the Houses of Parliament and a bridge in London.
+/content/drive/MyDrive/testdata/File 857.jpg:  A rainy day in London, UK, features the iconic Big Ben clock tower, Westminster Palace, and a green bridge, with people walking on the wet pavement.
+/content/drive/MyDrive/testdata/File 475.jpg:  Four children in chef hats and white shirts gather around a table in a cozy restaurant, sharing a meal of pizza and pasta.
+/content/drive/MyDrive/testdata/File 074.jpg:  A young child in a Spiderman shirt holds a toy car in a cozy living room, with a laptop, bookshelf, and couch nearby.
+/content/drive/MyDrive/testdata/File 263.jpg:  A man in blue and white, riding a brown horse, leads a gray horse with a red blanket along a dirt road in a desert landscape.
+/content/drive/MyDrive/testdata/File 859.jpg:  A stone clock tower with a green dome and statue of a woman holding a sword stands against a cloudy sky, with a red-tiled roof and chimneys in the background.
+/content/drive/MyDrive/testdata/File 075.jpg:  A construction worker in a yellow hard hat and orange vest holds a red and white stop sign on a snowy street, with a white picket fence and house in the background.
+/content/drive/MyDrive/testdata/File 264.jpg:  A man in blue leads a brown horse with a white blaze, accompanied by a woman in red and a man in yellow, with a black cart in the background.
+/content/drive/MyDrive/testdata/File 076.jpg:  A bustling Chicago street scene features towering buildings, a red and white striped awning, and a man in a white jacket walking on the sidewalk, with a red and white clock tower in the background.
+/content/drive/MyDrive/testdata/File 860.jpg:  A grand, ornate building with a clock tower and spires overlooks a bustling cityscape, with a river and bridge in the foreground.
+/content/drive/MyDrive/testdata/File 077.jpg:  A group of people gather on a wooden pier, with a clock tower and yellow cones in the background, and a clear blue sky above.
+/content/drive/MyDrive/testdata/File 861.jpg:  A grand red brick building with a white clock tower and green roof, featuring a clock face and a steeple, stands against a gray sky.
+/content/drive/MyDrive/testdata/File 564.jpg:  A Stagecoach bus, painted in white, blue, and orange, displays the website "www.stagecoach.com" and the destination "Penhorham" on a city street.
+/content/drive/MyDrive/testdata/File 563.jpg:  A red and white motorcycle, with a black seat and silver handlebars, is parked on a city street, accompanied by a black bag and a red and white flower pot.
+/content/drive/MyDrive/testdata/File 862.jpg:  A tall brick clock tower with a purple dome and white clock face stands in a park, displaying the words "Trophy Club" and surrounded by lush greenery.
+/content/drive/MyDrive/testdata/File 079.jpg:  A man in a suit and a woman in a black dress walk down a cobblestone street, accompanied by a woman in a white shirt and a man in a gray suit.
+/content/drive/MyDrive/testdata/File 565.jpg:  A row of vintage trucks, including a blue and white truck with a white canvas cover, is parked on a brick road, with a red truck and a green truck in the background.
+/content/drive/MyDrive/testdata/File 078.jpg:  A person in a pink coat and green shoes walks on a wet sidewalk, holding a black umbrella and reading a newspaper.
+/content/drive/MyDrive/testdata/File 919.jpg:  A street sign for Swath PL 12900, accompanied by a "Criminal Beware" sign, stands against a backdrop of palm trees and a cloudy sky.
+/content/drive/MyDrive/testdata/File 653.jpg:  A red stand mixer, black frying pans, and various kitchen utensils are arranged on a wooden shelf, with a window and white wall backdrop.
+/content/drive/MyDrive/testdata/File 863.jpg:  A stone clock tower with a white clock face and black numbers stands in a bustling city square, surrounded by buildings, shops, and people.
+/content/drive/MyDrive/testdata/File 477.jpg:  A white plate with a blue rim holds grilled chicken, yellow mashed potatoes, and green broccoli, arranged on a wooden table.
+/content/drive/MyDrive/testdata/File 654.jpg:  Two identical white clocks with black hands and numbers, displaying 12:55 and 12:55, are mounted on a white wall with yellow labels reading "Worcester" and "New York".
+/content/drive/MyDrive/testdata/File 083.jpg:  A man in a white shirt and blue jeans talks on his phone, standing in front of a black lamppost with a red and white sign, amidst a bustling city street.
+/content/drive/MyDrive/testdata/File 081.jpg:  A woman with red hair, wearing a maroon shirt and black backpack, stands in front of a blue bus, holding a camera and accompanied by a man in a white shirt and black backpack.
+/content/drive/MyDrive/testdata/File 080.jpg:  A man in a blue jacket and a woman in a blue sweater converse on a busy city street, with a store window displaying a mannequin and a Lego store sign in the background.
+/content/drive/MyDrive/testdata/File 082.jpg:  A woman in a red shirt holds two cell phones, one black and one silver, in a dimly lit room with wooden paneling.
+/content/drive/MyDrive/testdata/File 476.jpg:  A vibrant fruit stand displays a pyramid of red apples, surrounded by green apples, yellow melons, and pineapples, with a blue crate in the background.
+/content/drive/MyDrive/testdata/File 864.jpg:  A beige clock tower with a dome and clock faces stands tall against a cloudy sky, featuring a pointed roof and arched windows.
+/content/drive/MyDrive/testdata/File 084.jpg:  A woman in a green sweater and blue jeans sits on a brown couch, holding a red cup, while a young boy in a blue shirt reaches for a red cup on a red tray.
+/content/drive/MyDrive/testdata/File 655.jpg:  A green suitcase with a black handle and wheels sits on a gray carpet, accompanied by a black suitcase with a yellow tag and a black duffel bag with a yellow tag.
+/content/drive/MyDrive/testdata/File 409.jpg:  A skateboarder in white shirt and black pants performs a trick mid-air, surrounded by a crowd of spectators and a brick building with a clock tower in an urban setting.
+/content/drive/MyDrive/testdata/File 920.jpg:  A weathered street sign in London, UK, points to directions to the A127, Chelmsford, and Town Centre, with a yellow building and red roof in the background.
+/content/drive/MyDrive/testdata/File 478.jpg:  A man in a striped shirt sits on a blue tarp, surrounded by bunches of yellow bananas, with a scale and red bucket nearby, at a bustling outdoor market.
+/content/drive/MyDrive/testdata/File 085.jpg:  A young man in a white t-shirt and blue jeans works on a black laptop, seated on a beige blanket in a lush park.
+/content/drive/MyDrive/testdata/File 086.jpg:  A young girl in a white shirt and blue pajamas sits on a brown couch, holding a yellow toothbrush and accompanied by a green book.
+/content/drive/MyDrive/testdata/File 087.jpg:  A young boy in white shirt and pants flies a black and white kite on a sandy beach, with an older man in a striped shirt and pants observing.
+/content/drive/MyDrive/testdata/File 480.jpg:  A young girl in a white shirt and glasses smiles while holding a white plate with a chocolate cake, orange slice, and orange slice garnish, in a cozy restaurant.
+/content/drive/MyDrive/testdata/File 479.jpg:  A white box holds twelve donuts with various toppings, including chocolate, glazed, sprinkled, and plain, arranged in a 3x4 grid.
+/content/drive/MyDrive/testdata/File 481.jpg:  A young girl in a white t-shirt with hearts and a blue hair clip prepares to eat a pizza with red sauce on a white plate, accompanied by a blue cup on a wooden table.
+/content/drive/MyDrive/testdata/File 866.jpg:  A beige stone clock tower with a black clock face and white numbers stands tall, adorned with a black bell and white flags, against a clear blue sky.
+/content/drive/MyDrive/testdata/File 865.jpg:  A red brick town hall with a clock tower and arched windows stands in a bustling town square, surrounded by other buildings and people.
+/content/drive/MyDrive/testdata/File 482.jpg:  A glass display case showcases a variety of desserts, including cakes, pies, and pastries, with small white plates and black signs indicating the names of each item.
+/content/drive/MyDrive/testdata/File 088.jpg:  A man in a white chef's jacket adjusts the digital display of a stainless steel oven in a modern kitchen with red cabinets and a white countertop.
+/content/drive/MyDrive/testdata/File 089.jpg:  A bustling cityscape unfolds from a glass-enclosed bridge, featuring a dome-topped building, a river, and a skyline of modern and traditional architecture.
+/content/drive/MyDrive/testdata/File 090.jpg:  A woman in a white apron slices green vegetables on a white cutting board in a bustling kitchen, surrounded by a variety of ingredients and utensils.
+/content/drive/MyDrive/testdata/File 091.jpg:  Two girls in blue and white jerseys, one with the number 2 and the other with the number 24, engage in a dynamic soccer game on a lush green field.
+/content/drive/MyDrive/testdata/File 867.jpg:  A stone clock tower with a green roof and weather vane, featuring a blue clock face with gold hands and numbers, stands against a clear blue sky.
+/content/drive/MyDrive/testdata/File 922.jpg:  A man in a blue shirt and black cap stands on a balcony, holding a microphone, with a banner for "The Macadam Cup" and a clock reading 1:05.
+/content/drive/MyDrive/testdata/File 921.jpg:  A yellow "COIN LABOR" sign with a red "COIN LABOR" sign and a "FREE" sign stands on a city sidewalk, with a street lamp, cars, and a building in the background.
+/content/drive/MyDrive/testdata/File 483.jpg:  A blue bento box holds a variety of food items, including a green apple, grapes, a chocolate-covered cookie, and a carrot and broccoli salad.
+/content/drive/MyDrive/testdata/File 484.jpg:  A slice of chocolate cake with a glossy chocolate ganache and a scoop of vanilla ice cream on a white plate.
+/content/drive/MyDrive/testdata/File 092.jpg:  Three men in a bustling restaurant, one holding a plate of food, enjoy a meal amidst a lively atmosphere.
+/content/drive/MyDrive/testdata/File 923.jpg:  A yellow "Please Drive Slow" sign with a red flag stands in a tropical village, with power lines and a red-roofed house in the background.
+/content/drive/MyDrive/testdata/File 924.jpg:  A Parisian street signpost displays four directional signs for the Marire, Bibliothèque St. Simon, Chapelle de la Médaille Miraculeuse, and Musée MAILLOL, with a white building and black wrought iron fence in the background.
+/content/drive/MyDrive/testdata/File 656.jpg:  Two white ceramic vases, one with a textured surface and the other with a smooth, geometric pattern, hold a single yellow flower and green leaves.
+/content/drive/MyDrive/testdata/File 094.jpg:  A child in a green jacket and gray beanie eats a cookie on a red bench with a white railing.
+/content/drive/MyDrive/testdata/File 093.jpg:  A man in a blue striped shirt and pink tie takes a selfie in a hotel room, holding a white iPhone and standing in front of a bed and chair.
+/content/drive/MyDrive/testdata/File 095.jpg:  A man in a suit cuts a white cake with yellow flowers, while a woman in a blue dress and a man in a blue shirt observe, with a table set for a celebration.
+/content/drive/MyDrive/testdata/File 485.jpg:  A wooden table holds a sandwich, a bowl of soup, a glass of beer, and a plate of chips, with a white cup and saucer nearby.
+/content/drive/MyDrive/testdata/File 658.jpg:  An old, weathered suitcase with a brown interior and silver clasps is filled with green plants and flowers, contrasting with the concrete sidewalk and white wall.
+/content/drive/MyDrive/testdata/File 657.jpg:  A hand holds an LG phone displaying the time, date, and a colorful flower image, with the word "Sprint" on the screen.
+/content/drive/MyDrive/testdata/File 486.jpg:  A hand holds a silver spatula over a yellow plate with a strawberry tart, featuring a red strawberry filling and a green leaf pattern, on a wooden table.
+/content/drive/MyDrive/testdata/File 487.jpg:  A woman in a white chef's jacket decorates a cake with white frosting and chocolate shavings, accompanied by a mixer and a water bottle on a wooden table.
+/content/drive/MyDrive/testdata/File 659.jpg:  A beige teddy bear in a blue coat and orange scarf sits on a black surface, gazing at a yellow and gray robot with a black and white striped arm.
+/content/drive/MyDrive/testdata/File 489.jpg:  A young woman in a black and white sweater, with glasses and a smile, enjoys a meal of pizza and wine in a cozy restaurant.
+/content/drive/MyDrive/testdata/File 488.jpg:  A blue tray holds a salmon sandwich with lettuce, tomato, and cucumber, accompanied by a glass of dark soda, a red Coca-Cola can, and a white bowl of soup.
+/content/drive/MyDrive/testdata/File 925.jpg:  A baseball game unfolds on a lush green field, with a batter in red, a catcher in black, and an umpire in black, as spectators fill the stands.
+/content/drive/MyDrive/testdata/File 490.jpg:  A young boy in a blue sweater holds a white bowl of assorted fruits, including bananas, oranges, and apples, with a black and white photo collage on the wall behind him.
+/content/drive/MyDrive/testdata/File 491.jpg:  A young boy in a blue and white shirt eats a green frosted cupcake at a picnic table, with a pink and white flower-decorated cake nearby.
+/content/drive/MyDrive/testdata/File 926.jpg:  A blue sign with a white arrow points upwards, accompanied by a black sign with "REGULIERSGRACHT CENTRUM" in white text, mounted on a brick wall.
+/content/drive/MyDrive/testdata/File 096.jpg:  A newlywed couple, dressed in white and gray, stands on a sandy beach, holding a bouquet of pink and orange flowers, with a calm lake and clear blue sky in the background.
+/content/drive/MyDrive/testdata/File 927.jpg:  A woman in a black t-shirt and sunglasses stands in front of a blue signpost with white text, pointing towards the airport and Shuwaikh Port.
+/content/drive/MyDrive/testdata/File 868.jpg:  A white clock tower with a red roof and clock faces stands against a clear blue sky, accompanied by a lush green tree.
+/content/drive/MyDrive/testdata/File 660.jpg:  Three vintage refrigerators, in yellow, red, and pink, stand in a row against a black background, with a "BATH LTD." sign in the top right corner.
+/content/drive/MyDrive/testdata/File 492.jpg:  A man in a gray shirt reaches for a spoon in a bustling restaurant kitchen, with a bowl of food, a plate of food, and a woman in pink in the background.
+/content/drive/MyDrive/testdata/File 929.jpg:  A black street sign with white text points to Broadway and One Way, accompanied by a blue street sign with a white arrow, against a backdrop of a beige building with white trim.
+/content/drive/MyDrive/testdata/File 662.jpg:  A white double oven with a digital display and a knob is mounted on a brown brick wall, accompanied by a colorful ceramic plate.
+/content/drive/MyDrive/testdata/File 663.jpg:  A tall grandfather clock with a wooden face and black hands stands in a white-walled room, accompanied by a framed certificate and a white door with a black and white checkered floor.
+/content/drive/MyDrive/testdata/File 661.jpg:  A clear glass vase with a ribbed texture holds a small bird figurine in a vibrant red and green beak, surrounded by autumn leaves and pine cones.
+/content/drive/MyDrive/testdata/File 928.jpg:  A pink building with blue shutters and a brown roof, adorned with pink flowers, stands against a clear blue sky, with a white sign indicating "Finkenweg 1-15" in the foreground.
+/content/drive/MyDrive/testdata/File 098.jpg:  A baby in a blue onesie lies on a wooden floor, reaching for a black Dell keyboard with a cord, while a stack of books is visible in the background.
+/content/drive/MyDrive/testdata/File 097.jpg:  A young child in a black jacket eats a donut with pink icing, while an adult in a brown coat holds a donut in a bustling restaurant.
+/content/drive/MyDrive/testdata/File 099.jpg:  Two men play a video game in a cozy living room, one in a blue hoodie and the other in a gray and white plaid shirt, surrounded by a beige rug, wooden coffee table, and a plant.
+/content/drive/MyDrive/testdata/File 493.jpg:  A woman in a black leather jacket and blue shirt smiles while holding a slice of pizza, with a large pizza on a white plate in front of her.
+/content/drive/MyDrive/testdata/File 930.jpg:  A white bus with a red and white logo, displaying "33 STANYAN SACTO + CHERRY" and a digital sign, waits at a bus stop with a man standing nearby.
+/content/drive/MyDrive/testdata/File 494.jpg:  A table is set with a large white plate of stir-fried vegetables, accompanied by smaller plates of various dishes, including a bowl of soup and a plate of noodles.
+/content/drive/MyDrive/testdata/File 495.jpg:  A wire fruit basket holds a variety of fruits, including oranges, apples, bananas, and a small pumpkin with a spider decoration, all wrapped in white netting.
+/content/drive/MyDrive/testdata/File 496.jpg:  A green bowl holds six golden brown bread rolls with sesame seeds, accompanied by a glass of water and a jar of jam on a wooden table.
+/content/drive/MyDrive/testdata/File 497.jpg:  A bustling fruit market features a table with bananas, oranges, and apples, with a yellow awning and a stone wall backdrop.
+/content/drive/MyDrive/testdata/File 664.jpg:  A white cat sniffs a bouquet of orange, blue, and red flowers in a clear glass vase, placed on a gray rug with an orange and black geometric pattern.
+/content/drive/MyDrive/testdata/File 931.jpg:  A blue "Home Zone" sign with white icons of a car, house, and people is mounted on a green pole, with a brick house and red brick building in the background.
+/content/drive/MyDrive/testdata/File 100.jpg:  A man in a white t-shirt and black apron holds a wooden paddle, preparing to place bread into a brick oven with a red firebox.
+/content/drive/MyDrive/testdata/File 101.jpg:  A lively kite festival unfolds in a verdant field, with people of all ages flying a variety of colorful kites, including a green dragon and a pink and yellow one.
+/content/drive/MyDrive/testdata/File 498.jpg:  A newlywed couple, dressed in white and purple, cuts a four-tiered wedding cake with a gold base and white flowers, surrounded by a floral arrangement and a painting.
+/content/drive/MyDrive/testdata/File 102.jpg:  Three men in white, blue, and red shirts smile around a table with tennis rackets, balls, and a red tablecloth, with a bar in the background.
+/content/drive/MyDrive/testdata/File 932.jpg:  A white street sign with black lettering, reading "END GLOVER", is mounted on a black pole, with a white building and blue sky in the background.
+/content/drive/MyDrive/testdata/File 933.jpg:  A green street sign for Buckfast St E2, with a white background and black text, is mounted on a black metal fence with yellow pipes.
+/content/drive/MyDrive/testdata/File 665.jpg:  A silver Saeeco Vienna coffee machine with a black grinder and white whisk sits on a wooden counter, accompanied by a white cord and a wooden chair.
+/content/drive/MyDrive/testdata/File 869.jpg:  A red brick clock tower with a green dome and white clock faces stands tall in London, England, surrounded by a mix of old and new architectural styles.
+/content/drive/MyDrive/testdata/File 934.jpg:  A street sign for "Larkin" with a black arrow points left, accompanied by a building with a blue and white facade and a clear blue sky.
+/content/drive/MyDrive/testdata/File 870.jpg:  A grand, ornate building with a clock tower and Chinese characters stands on a bustling street corner, surrounded by people and vehicles.
+/content/drive/MyDrive/testdata/File 499.jpg:  A young woman in a red jacket and pink sunglasses enjoys a hearty breakfast of eggs, sausage, bacon, and beans, seated at a wooden table with a brick wall backdrop.
+/content/drive/MyDrive/testdata/File 566.jpg:  A purple and yellow train, numbered 156483, waits at a platform in a bustling train station, with a blue train visible in the background.
+/content/drive/MyDrive/testdata/File 568.jpg:  A blue Arriva bus, numbered 2978, parks at a bus stop with a white canopy, displaying the Arriva logo and the destination "wrexin connect".
+/content/drive/MyDrive/testdata/File 567.jpg:  Three airplanes, painted in yellow, white, and blue, fly in a diagonal formation, leaving white smoke trails against a clear blue sky.
+/content/drive/MyDrive/testdata/File 666.jpg:  A black tape measure, red ruler, yellow pencil, red glue stick, and black scissors are arranged on a wooden desk, ready for crafting or measuring.
+/content/drive/MyDrive/testdata/File 667.jpg:  A clear glass jar with a metal lid, filled with water and holding a bouquet of red roses, sits on a wooden table against a white wall.
+/content/drive/MyDrive/testdata/File 569.jpg:  A police officer in a white uniform and helmet rides a white motorcycle with a black seat and red lights, parked on a city street with a crowd of people in the background.
+/content/drive/MyDrive/testdata/File 668.jpg:  Two white teddy bears, one with a red nose and the other with a black nose, sit on a green floral patterned surface.
+/content/drive/MyDrive/testdata/File 502.jpg:  A man in a white shirt and a woman in a blue tank top share a meal at a red-walled restaurant, with plates of food, drinks, and utensils on a wooden table.
+/content/drive/MyDrive/testdata/File 500.jpg:  A young child with blonde hair, wearing a striped bib, sits at a table with a plate of chocolate cake, holding a purple spoon and surrounded by a white wall and a person in the background.
+/content/drive/MyDrive/testdata/File 669.jpg:  A gray teddy bear in a blue shirt, with "Happy Birthday" written on its chest, sits on a pink tablecloth, accompanied by a black lantern with a red candle.
+/content/drive/MyDrive/testdata/File 501.jpg:  Two young boys in blue and red shirts enjoy donuts with sprinkles and coconut at a bustling donut shop.
+/content/drive/MyDrive/testdata/File 871.jpg:  The Charminar, a white stone mosque with three minarets and a large archway, stands in Hyderabad, India, surrounded by a bustling street scene.
+/content/drive/MyDrive/testdata/File 872.jpg:  Edinburgh's Calton Hill, with its clock tower and spire, is illuminated at dusk, contrasting with the dark sky and cityscape.
+/content/drive/MyDrive/testdata/File 873.jpg:  A green dome with a gold cross and clock tower, adorned with a statue, stands atop a stone building with a yellow roof, set against a gray sky.
+/content/drive/MyDrive/testdata/File 503.jpg:  A woman in a red shirt blows out a pink candle on a chocolate cake with white frosting and green leaves, seated at a wooden table with a window view.
+/content/drive/MyDrive/testdata/File 670.jpg:  A white teddy bear in a red apron and a brown teddy bear in a brown apron stand beside a red bowl of pink batter, with a silver toaster oven and a blue box of Pillsbury Moisture Supreme on a pink wall.
+/content/drive/MyDrive/testdata/File 874.jpg:  A red brick clock tower with a green roof and clock face stands in a park, surrounded by lush green grass and trees, with a row of houses in the distance.
+/content/drive/MyDrive/testdata/File 570.jpg:  A man in a black jacket and helmet sits on a black Triumph motorcycle, parked on a city street at night, with a brick building and neon sign in the background.
+/content/drive/MyDrive/testdata/File 572.jpg:  A white bus with a blue and red "MitoBus" logo and a white truck with a blue and red "Berna" logo are parked on a road, with a person on a motorcycle in the foreground.
+/content/drive/MyDrive/testdata/File 574.jpg:  A black and white image captures a city street scene, featuring a moving bus, a pedestrian, and a large metal structure, with a brick building in the background.
+/content/drive/MyDrive/testdata/File 571.jpg:  A bustling train station features a large arched window, a black and white train, and people waiting on the platform, with a large billboard in the background.
+/content/drive/MyDrive/testdata/File 573.jpg:  A white and blue fishing boat, numbered 4448, is docked in a harbor, with a crane extended and a backdrop of snow-capped mountains.
+/content/drive/MyDrive/testdata/File 410.jpg:  A marching band in black and white uniforms, accompanied by a young boy on a blue bicycle, performs in front of a white church with a clock tower and red roof.
+/content/drive/MyDrive/testdata/File 575.jpg:  A red and black tour bus, labeled "CATALYST," is parked in front of a modern building with a glass facade, accompanied by a blue car and a person in the driver's seat.
+/content/drive/MyDrive/testdata/File 576.jpg:  A white Volvo First T Tow truck, marked with a pink and blue stripe, is parked on a city street, displaying the license plate "G869 TNF".
+/content/drive/MyDrive/testdata/File 504.jpg:  A man and a young girl prepare a pizza in a cozy kitchen, with a pizza on a metal tray and a jar of tomato sauce nearby.
+/content/drive/MyDrive/testdata/File 876.jpg:  A white church with a tall, pointed steeple and a red clock face is set against a clear blue sky, with a tree in the background.
+/content/drive/MyDrive/testdata/File 875.jpg:  A beige stone clock tower with a green dome, red clock face, and white flag stands against a clear blue sky, with a ladder and scaffolding nearby.
+/content/drive/MyDrive/testdata/File 505.jpg:  A child in a black shirt sits in a high chair, eating a slice of pizza and carrot sticks, with a red cup and purple toy on the table.
+/content/drive/MyDrive/testdata/File 580.jpg:  Two motorcycles, a red Ducati and a white Kawasaki, are parked side by side in a parking lot, with a blue curb and yellow lines marking the space.
+/content/drive/MyDrive/testdata/File 578.jpg:  A red and green boat named "Cafe" with a black roof and red awning is docked on a river, accompanied by a person and a green umbrella.
+/content/drive/MyDrive/testdata/File 577.jpg:  A green double-decker bus, labeled "Liverpool Transport City Tour," parks on a city street, with a blue bus and white building in the background.
+/content/drive/MyDrive/testdata/File 671.jpg:  A black oval photo frame with a young child's face and a pink vase with pink and red roses are arranged on a white shelf.
+/content/drive/MyDrive/testdata/File 935.jpg:  A rusted signpost in Mumbai, India, displays a white "P" and a directional arrow, with the text "G.B.P. ANGULAR" and "KON KARAN" in English and Hindi.
+/content/drive/MyDrive/testdata/File 579.jpg:  A white HotSpring Portable Spas truck, adorned with a blue and white logo and a stone-patterned design, parks in a residential area with a house and trees in the background.
+/content/drive/MyDrive/testdata/File 936.jpg:  A white sign with red text and arrow points to the left, mounted on a metal pole, with a building and window in the background.
+/content/drive/MyDrive/testdata/File 581.jpg:  A purple and white double-decker bus, labeled "First" and "LT52 VVP", parks on a tree-lined street, with a blue building and parked cars in the background.
+/content/drive/MyDrive/testdata/File 937.jpg:  A green street sign for "Orbit" and "Galactica" intersects with a yellow stop sign, set against a gray sky and a blue house with a gray roof.
+/content/drive/MyDrive/testdata/File 938.jpg:  A green chalkboard fridge in a kitchen displays a shopping list, with a plant and blue mug on top, accompanied by a $24-$500 price tag.
+/content/drive/MyDrive/testdata/File 939.jpg:  A "No Parking" sign with a snowflake design and a "Tow Zone" restriction is attached to a pole on a Chicago street, with cars and buildings in the background.
+/content/drive/MyDrive/testdata/File 940.jpg:  A red and white "No Parking" sign with a pictogram of a person and a "TARHAN KOLEJI" sign are attached to a building in a city street at night.
+/content/drive/MyDrive/testdata/File 941.jpg:  A black and white image features a stop sign with a sticker, a one-way sign, and a street sign for "Park" in the background.
+/content/drive/MyDrive/testdata/File 879.jpg:  A large black horse statue stands on a pedestal in a cobblestone square, surrounded by people and buildings, with a smaller horse statue in the background.
+/content/drive/MyDrive/testdata/File 877.jpg:  A red brick clock tower with a green roof and white clock faces stands in a bustling town square, surrounded by shops and restaurants.
+/content/drive/MyDrive/testdata/File 506.jpg:  A woman in a blue and white striped shirt enjoys a sandwich at a table with a wooden board, accompanied by a bottle of ketchup and a glass of soda.
+/content/drive/MyDrive/testdata/File 878.jpg:  The Old Town Hall in Prague, Czech Republic, stands majestically with two towering spires and a clock tower, surrounded by a bustling street and traditional buildings.
+/content/drive/MyDrive/testdata/File 942.jpg:  Four individuals, including a man in a striped shirt and a woman in a white blazer, stand beside a black and white cow in front of the Londonderry Hall, with a blue banner displaying the Ulster Bank logo.
+/content/drive/MyDrive/testdata/File 943.jpg:  A black and white "One Way" sign, yellow traffic light, and green and white "Enterprise" sign are mounted on a black pole against a clear blue sky.
+/content/drive/MyDrive/testdata/File 582.jpg:  A black and white photograph captures a fire hydrant with water jets on a city street, with a white car and building in the background.
+/content/drive/MyDrive/testdata/File 946.jpg:  A black clock with white face and Roman numerals hangs on a peach-colored wall, accompanied by a black sign reading "GROVER BEA" and a black lampshade.
+/content/drive/MyDrive/testdata/File 880.jpg:  A green double-decker bus, displaying "parkride" and route number "400", parks on a bustling street lined with historic buildings and people.
+/content/drive/MyDrive/testdata/File 947.jpg:  A tennis player in green and white executes a forehand shot on a red clay court, with spectators and advertisements in the background.
+/content/drive/MyDrive/testdata/File 945.jpg:  A collage of winter sports scenes features skiers, snowboarders, and snowboarders, with a "Powder Pass" logo and credit card icon.
+/content/drive/MyDrive/testdata/File 944.jpg:  A street sign pole in New York City displays a red stop sign, one-way signs, and a "Pearl St" sign, with a building and blue construction site in the background.
+/content/drive/MyDrive/testdata/File 507.jpg:  A person in a pink shirt sits at a table with a white plate holding a pizza topped with eggs, bacon, and green herbs, accompanied by a fork and knife.
+/content/drive/MyDrive/testdata/File 948.jpg:  A black street sign for Johnson Street and a red one-way sign for Chinatown are mounted on a black pole, with a beige building and gray sky in the background.
+/content/drive/MyDrive/testdata/File 728.jpg:  A yellow and white seaplane with a black propeller takes off from a body of water, leaving a trail of white foam, with a city skyline in the background.
+/content/drive/MyDrive/testdata/File 949.jpg:  Three stuffed animals, including a red-haired doll, a hedgehog, and a pink teddy bear, sit in a blue wooden chair with a thought bubble reading "Noooo! We won't let you take our chair."
+/content/drive/MyDrive/testdata/File 727.jpg:  Three individuals admire a painting of the Starry Night in a museum, with one capturing the moment on their phone.
+/content/drive/MyDrive/testdata/File 730.jpg:  A tropical beach scene features swaying palm trees, clear blue sky, and a sandy shore with colorful umbrellas and lounge chairs, with a person walking towards the water.
+/content/drive/MyDrive/testdata/File 950.jpg:  A white airplane with a red stripe and tail flies low over a blue sky, with a yellow and blue VIA Rail Canada sign warning of moving trains and cautioning against crossing.
+/content/drive/MyDrive/testdata/File 729.jpg:  A tranquil harbor scene features a row of colorful boats, including blue, white, and yellow, docked in calm water with reflections on the surface.
+/content/drive/MyDrive/testdata/File 731.jpg:  A red and white kite soars in the clear blue sky, tethered to the ground by a string, with a group of kites in various colors and sizes scattered below.
+/content/drive/MyDrive/testdata/File 732.jpg:  A white boat with blue roof and red and white striped awning sails on the Seine River in Paris, with the Eiffel Tower and Seine Bridge in the background.
+/content/drive/MyDrive/testdata/File 951.jpg:  A green "RESERVED PARKING" sign with a white "hybrid parking only" message is mounted on a metal pole, with a parking lot and palm trees in the background.
+/content/drive/MyDrive/testdata/File 733.jpg:  A white airplane with a red tail soars over a mountainous landscape, with a small village nestled in the valley below.
+/content/drive/MyDrive/testdata/File 734.jpg:  A person sits on a bench, silhouetted against a sunset over a lake, with a bicycle leaning against a building and a mountain range in the distance.
+/content/drive/MyDrive/testdata/File 673.jpg:  A green teapot with a rainbow pattern and a white vase with a striped handle hold a collection of colorful utensils on a beige countertop.
+/content/drive/MyDrive/testdata/File 672.jpg:  A gray parking meter with a blue "P" and solar panel stands on a sidewalk, accompanied by a green sign and a tree, with a building and people in the background.
+/content/drive/MyDrive/testdata/File 953.jpg:  A black and white street sign with a white arrow points left, accompanied by a bicycle symbol, stands on a pole in a dimly lit urban setting.
+/content/drive/MyDrive/testdata/File 952.jpg:  A red Coca-Cola truck with a white trailer and Coca-Cola logo is parked on a wet street, with a building and trees in the background.
+/content/drive/MyDrive/testdata/File 674.jpg:  A white fire hydrant with a blue top and rusted chain stands on a sidewalk, accompanied by a red curb and a yellow crosswalk.
+/content/drive/MyDrive/testdata/File 583.jpg:  A yellow bicycle leans against a black pole on a wet city sidewalk, with a red car parked nearby and a building with a "Booth" sign in the background.
+/content/drive/MyDrive/testdata/File 881.jpg:  A black wrought iron clock tower with a red and gold clock face, white numbers, and a green roof stands against a clear blue sky, with people on a balcony in the foreground.
+/content/drive/MyDrive/testdata/File 675.jpg:  A pumpkin-shaped vase holds a vibrant bouquet of orange, yellow, purple, and red flowers, accompanied by a candy-filled basket and a jar of golf balls.
+/content/drive/MyDrive/testdata/File 954.jpg:  A large blue billboard on a building in New York City reads "THE ALGORITHM KILLED JEEVES", with a cityscape and river in the background.
+/content/drive/MyDrive/testdata/File 957.jpg:  A street sign for "Creamer St" and "Hicks St" stands on a pole, with a red building and trees in the background.
+/content/drive/MyDrive/testdata/File 956.jpg:  A man in a black jacket and khaki shorts walks across a street, holding a green and white umbrella, with a white wall and palm trees in the background.
+/content/drive/MyDrive/testdata/File 958.jpg:  A red stop sign and green street sign for Guerneville Rd are mounted on a wooden pole, with power lines overhead against a clear blue sky.
+/content/drive/MyDrive/testdata/File 959.jpg:  A blue road sign with white text and arrows points to Karigasniemi, Garegasnjarga, and Norja, indicating distances to Ivalo, Avvil, and Norja.
+/content/drive/MyDrive/testdata/File 955.jpg:  A street sign at the intersection of Dragoo Park and Aspirations Street indicates the names of the streets and the direction to the dead end.
+/content/drive/MyDrive/testdata/File 508.jpg:  A white bowl holds two scoops of light brown ice cream, garnished with chocolate shavings and a sprig of mint, accompanied by a red strawberry, a white container, and a pile of coffee beans.
+/content/drive/MyDrive/testdata/File 676.jpg:  A green glass Coca-Cola cup holds a bouquet of purple and pink flowers, accompanied by a red wine bottle and a green pitcher on a striped tablecloth.
+/content/drive/MyDrive/testdata/File 735.jpg:  A person in a white hoodie rides a red bicycle with a surfboard, accompanied by another person on a white bicycle, with a "No Dogs" sign and a ship in the distance.
+/content/drive/MyDrive/testdata/File 960.jpg:  A traffic light with three lights (red, yellow, and green) hangs from a metal pole, accompanied by a street sign reading "EJE 5 OTE" and a tree in the background.
+/content/drive/MyDrive/testdata/File 588.jpg:  A person crouches on a grassy field, capturing a low-angle view of a plane in the sky, with a second image showing a person on a tripod photographing a plane in the distance.
+/content/drive/MyDrive/testdata/File 677.jpg:  A stack of vintage suitcases, adorned with colorful stickers and photos, sits on a grassy lawn, with a red box and white car in the background.
+/content/drive/MyDrive/testdata/File 587.jpg:  A bustling London street scene features a red double-decker bus, a black taxi, and a blue pedestrian bridge, with a red brick building and green trees in the background.
+/content/drive/MyDrive/testdata/File 584.jpg:  Two double-decker buses, one beige and one red, are parked in a lot with a brick building and a person in the foreground.
+/content/drive/MyDrive/testdata/File 585.jpg:  A silver Dodge pickup truck, with a license plate reading "HAWAII," transports two individuals and a dog in a rural setting.
+/content/drive/MyDrive/testdata/File 589.jpg:  A blue and white Miko bus, with a white roof and black stripe, parks on a tree-lined street, displaying the Miko logo and license plate "VOC-78-11".
+/content/drive/MyDrive/testdata/File 586.jpg:  A man in a blue jacket rides a vintage motorcycle with a yellow license plate, parked on a wet street with a red car and white tent in the background.
+/content/drive/MyDrive/testdata/File 678.jpg:  A gray laptop, white iPod, black mouse, blue and white book, black and white camera, white and black USB drive, black and white earbuds, and a blue and black umbrella are arranged on a white desk.
+/content/drive/MyDrive/testdata/File 961.jpg:  A blue street sign with a white arrow points left, accompanied by a red and white "No Parking" sign and a "Plan" sign, with a building and trees in the background.
+/content/drive/MyDrive/testdata/File 739.jpg:  A bustling Copenhagen street scene features cars, bicycles, pedestrians, and buildings, with a clear blue sky overhead.
+/content/drive/MyDrive/testdata/File 737.jpg:  A skier in black jacket and pants carves a path through pristine white snow, with a mountain range and bright sun in the background.
+/content/drive/MyDrive/testdata/File 738.jpg:  A kite festival unfolds in a parking lot, with a variety of colorful kites soaring in the clear blue sky, while people gather on the sandy beach.
+/content/drive/MyDrive/testdata/File 736.jpg:  A wooden bench overlooks a serene lake, surrounded by snow-covered trees and mountains, with a clear blue sky and the sun shining brightly.
+/content/drive/MyDrive/testdata/File 962.jpg:  A black and white photograph of a building with a "No Office" sign and a "Economy Motel" sign, accompanied by a tree and a satellite dish.
+/content/drive/MyDrive/testdata/File 882.jpg:  The Liver Building, a Gothic-style landmark in Liverpool, England, features a tall clock tower with a green eagle statue and two black clock faces, set against a clear blue sky.
+/content/drive/MyDrive/testdata/File 883.jpg:  The Woolworth Building, a renowned skyscraper in New York City, features a white facade, clock tower, and flagpole, with a clear blue sky and other buildings in the background.
+/content/drive/MyDrive/testdata/File 590.jpg:  A white and red airplane with two engines and a red stripe on the tail is captured mid-flight, moving from left to right with its landing gear extended.
+/content/drive/MyDrive/testdata/File 592.jpg:  Three motorcyclists, dressed in black and blue, perform stunts on a gray asphalt road, with a blue motorcycle in the foreground and a red fence in the background.
+/content/drive/MyDrive/testdata/File 742.jpg:  People gather on a rainy day at a park, holding umbrellas in various colors, with a soccer field and trees in the background.
+/content/drive/MyDrive/testdata/File 741.jpg:  A red and white boat named "citycruises" sails on the River Thames, carrying passengers and leaving a wake, with a cityscape and bridge in the background.
+/content/drive/MyDrive/testdata/File 591.jpg:  A blue Volkswagen Golf hatchback is parked on a city street, facing a tall glass building with the name "Wisma Sumber Asli" and a traffic light, with a tree and pedestrians in the background.
+/content/drive/MyDrive/testdata/File 963.jpg:  A blue street sign with white text reading "Jln. Beserah" stands in front of a silver car, with a billboard and trees in the background.
+/content/drive/MyDrive/testdata/File 740.jpg:  A woman in a red coat stands on a sidewalk, gazing at a green mailbox and red fire hydrant, with a brick building and trees in the background.
+/content/drive/MyDrive/testdata/File 748.jpg:  A man in a black jacket prepares food at a blue-canopied outdoor food stall, offering slices for $2.00 and whole pizzas for $12.00.
+/content/drive/MyDrive/testdata/File 594.jpg:  A vintage blue and cream bus, labeled "Southern National Tour," is parked on a street with a brick building and construction site in the background.
+/content/drive/MyDrive/testdata/File 743.jpg:  A white boat with a yellow funnel sails on a lake, accompanied by a large metal fork sculpture in the foreground, with a mountain range in the distance.
+/content/drive/MyDrive/testdata/File 746.jpg:  Four police officers on motorcycles, wearing black jackets and helmets, stand on a sidewalk in a bustling city, with a "No Entry" sign and a "Crowded" sign in the background.
+/content/drive/MyDrive/testdata/File 750.jpg:  A green and white tram moves through a bustling Japanese street, surrounded by parked cars, buildings, and signs, with a pedestrian crossing in the foreground.
+/content/drive/MyDrive/testdata/File 596.jpg:  A black and white tugboat named "Brent" is docked at a pier, with a calm river and a distant shoreline in the background.
+/content/drive/MyDrive/testdata/File 745.jpg:  A white boat with a red roof and a sign reading "Santacruz" sails on a river, carrying a group of people, with a church and palm trees in the background.
+/content/drive/MyDrive/testdata/File 679.jpg:  A dark wooden table holds two clear glass candle holders, one with a green flower arrangement and the other empty, accompanied by a vase of green flowers.
+/content/drive/MyDrive/testdata/File 749.jpg:  A tall concrete clock tower with a white clock face and black numbers stands in a park, surrounded by trees and shrubs in autumn colors.
+/content/drive/MyDrive/testdata/File 964.jpg:  A bustling Italian street scene features pedestrians, cars, and a traffic light, with a yellow pole and posters on a building in the background.
+/content/drive/MyDrive/testdata/File 744.jpg:  Two white barges, one with a crane, are docked in a harbor, with a large industrial building and crane in the background.
+/content/drive/MyDrive/testdata/File 747.jpg:  A vibrant mural of a tiger, clown, and bird adorns a red brick building, accompanied by a black bicycle and a red and white striped awning.
+/content/drive/MyDrive/testdata/File 595.jpg:  A green and yellow bus, numbered 1184, waits at a bus stop with a "TO TERMINAL" sign, accompanied by a red car and a "BE PREPARED TO STOP" sign.
+/content/drive/MyDrive/testdata/File 751.jpg:  A bustling city street at dusk features cars, trucks, and pedestrians, with the Eiffel Tower and billboards in the background, and the city skyline illuminated by warm lights.
+/content/drive/MyDrive/testdata/File 593.jpg:  A white van with a black roof and license plate "KR-527G" is parked on a city street, with a white truck and blue building in the background.
+/content/drive/MyDrive/testdata/File 754.jpg:  A bustling city street features a green and white bus, a red and white bicycle, and a brick church, with people walking and a traffic light in the background.
+/content/drive/MyDrive/testdata/File 509.jpg:  A wicker basket overflows with a vibrant assortment of fruits, including bananas, apples, pears, kiwis, and peaches, arranged on a white tablecloth.
+/content/drive/MyDrive/testdata/File 755.jpg:  A bustling Japanese street at night features vibrant signs, lanterns, and a variety of shops, with people walking along the sidewalk.
+/content/drive/MyDrive/testdata/File 753.jpg:  A quaint green and white building, "The Royal Mile", houses a red awning and a blue scooter, with a red fire hydrant and a person walking on the sidewalk.
+/content/drive/MyDrive/testdata/File 752.jpg:  A red brick building with a blue sign for "Dental Office" and a yellow "Augusta Av" sign is situated on a busy street corner, with a traffic light and power lines overhead.
+/content/drive/MyDrive/testdata/File 756.jpg:  A European street at night features a row of white and yellow buildings, red and green traffic lights, and a speed limit sign, with a wooden fence and street lamp in the foreground.
+/content/drive/MyDrive/testdata/File 757.jpg:  An airport terminal at night features a large airplane on the tarmac, surrounded by parked vehicles, a white tent, and a curved building with illuminated windows.
+/content/drive/MyDrive/testdata/File 759.jpg:  Two individuals on horseback, one in blue and the other in gray, navigate a rugged canyon, accompanied by a herd of black and brown cows.
+/content/drive/MyDrive/testdata/File 884.jpg:  A tall stone clock tower with a green roof and two clock faces stands against a clear blue sky, featuring a balcony and arched windows.
+/content/drive/MyDrive/testdata/File 758.jpg:  A white bus with red stripes and a green sign travels down a city street, passing a black building with scaffolding and power lines overhead.
+/content/drive/MyDrive/testdata/File 510.jpg:  A man in a black jacket enjoys breakfast at a wooden table, featuring pancakes, bacon, eggs, and toast, with a red booth and window view in the background.
+/content/drive/MyDrive/testdata/File 966.jpg:  A bustling city street features a variety of vehicles, including buses, cars, and trucks, with a Mercedes-Benz logo on the right side.
+/content/drive/MyDrive/testdata/File 760.jpg:  A bustling city street hosts a bike repair workshop, with a woman in blue and a man in red working on a bicycle, surrounded by other participants and bicycles.
+/content/drive/MyDrive/testdata/File 600.jpg:  A red and white bus with a blue roof and green and yellow decorations drives on a road lined with brick buildings, with a lone motorcyclist and a bridge in the distance.
+/content/drive/MyDrive/testdata/File 598.jpg:  A blue Jeep with license plate "CV 164 FS" is parked on a dirt road, with two elephants and a third partially visible in the background.
+/content/drive/MyDrive/testdata/File 597.jpg:  A man in a black jacket and blue jeans sits on a blue bicycle with a black seat and silver handlebars, parked on a sidewalk with a yellow traffic light and gray pole.
+/content/drive/MyDrive/testdata/File 761.jpg:  A bustling London street scene features a red double-decker bus, pedestrians, and shops, with a green traffic light and overpass in the background.
+/content/drive/MyDrive/testdata/File 599.jpg:  A blue and white bus, adorned with Christmas decorations, parks on a city street, with a brick building and trees in the background.
+/content/drive/MyDrive/testdata/File 965.jpg:  A group of motorcyclists in black leather jackets and helmets gather in front of a white Texaco gas station with a red roof, parked cars, and a clear blue sky.
+/content/drive/MyDrive/testdata/File 601.jpg:  A tranquil harbor at dusk features a variety of boats, including sailboats and motorboats, docked in calm waters with a distant shoreline and hills.
+/content/drive/MyDrive/testdata/File 969.jpg:  A white street sign for "Calle del Carmen" in Mexico City, Mexico, is mounted on a black pole, with power lines and a red building in the background.
+/content/drive/MyDrive/testdata/File 885.jpg:  A white clock tower with a black roof and clock face stands tall against a clear blue sky, adorned with blue and white crosses.
+/content/drive/MyDrive/testdata/File 762.jpg:  A lively kite festival unfolds on a sandy beach, with a variety of colorful kites soaring in the clear blue sky, including a large yellow dragon and a red and white striped one.
+/content/drive/MyDrive/testdata/File 968.jpg:  A red and white sign for David Bobzien's Nevada Assembly 24, accompanied by a bicycle, is displayed on a red curb, with a brick building and tree in the background.
+/content/drive/MyDrive/testdata/File 763.jpg:  Two women in traditional Japanese kimonos perform on a stage, holding open parasols, with an audience seated in front.
+/content/drive/MyDrive/testdata/File 764.jpg:  A bustling coffee shop features Bob's Coffee & Doughnuts, with a large pizza and "Best in LA" sign, and a counter with a "Iced Tea" sign.
+/content/drive/MyDrive/testdata/File 602.jpg:  A white airplane with tail number "1530" is parked on a tarmac, surrounded by airport equipment and a clear blue sky.
+/content/drive/MyDrive/testdata/File 967.jpg:  A green street sign with a white background and bold black letters reads "WERDER ST" is mounted on a metal pole, with a clear blue sky and lush green trees in the background.
+/content/drive/MyDrive/testdata/File 970.jpg:  A street sign for "Old Baladiyya Road" in the United Arab Emirates, with Arabic and English text, is mounted on a pole against a clear blue sky.
+/content/drive/MyDrive/testdata/File 603.jpg:  A blue Toyota RAV4 with a black roof and silver grille is parked on a tree-lined street, facing right with a white license plate.
+/content/drive/MyDrive/testdata/File 886.jpg:  The Sacré-Cœur Basilica in Paris, France, features a large dome, smaller domes, and a green statue, with a bird in flight and a tree in the foreground.
+/content/drive/MyDrive/testdata/File 765.jpg:  A bustling ski resort features a snowy mountain slope, with skiers and snowboarders in colorful gear, a ski lift, and a clear blue sky.
+/content/drive/MyDrive/testdata/File 604.jpg:  An orange vintage Fiat 500 car, with two pizzas on the roof, is parked in front of a store window, displaying a "FREE" ice cream sign.
+/content/drive/MyDrive/testdata/File 605.jpg:  A modern white and red ICE train, with a curved front and red stripe, is stationed at a train station with a curved ceiling and large windows.
+/content/drive/MyDrive/testdata/File 971.jpg:  A red and white "Stop Look Listen Beware of trains" sign, a yellow and black "Train Dismount" sign, and a yellow and black "Train Dismount" sign are mounted on a pole, with a red brick building and overcast sky in the background.
+/content/drive/MyDrive/testdata/File 767.jpg:  A bustling city street at dusk features cars, pedestrians, and buildings in shades of blue, red, and yellow, with a traffic light and street lamp illuminating the scene.
+/content/drive/MyDrive/testdata/File 887.jpg:  A tall, ornate clock tower with a pointed roof and gold accents stands against a clear blue sky, accompanied by a black bird in flight.
+/content/drive/MyDrive/testdata/File 972.jpg:  A street sign at the intersection of Bourke St and William St displays "Bourke St" and "William St" in white text, accompanied by a "No Right Turn" sign and a traffic light.
+/content/drive/MyDrive/testdata/File 680.jpg:  A green vase with white floral patterns and a black and gold round mirror adorn a black metal stand, with a white door and gray wall in the background.
+/content/drive/MyDrive/testdata/File 766.jpg:  A man in a white t-shirt and blue shorts throws a frisbee on a sandy beach, with a group of people in the water and a mountain range in the distance.
+/content/drive/MyDrive/testdata/File 768.jpg:  A cozy living room features a brick fireplace, bookshelf, and coffee table, with six individuals engaged in conversation and enjoying a meal.
+/content/drive/MyDrive/testdata/File 888.jpg:  A white clock tower with a blue clock face and a gray dome stands against a clear blue sky, surrounded by a white building with arched windows and a red brick building with arched windows.
+/content/drive/MyDrive/testdata/File 265.jpg:  A man in a cowboy hat rides a horse along a beach, with a white umbrella and distant mountains in the background.
+/content/drive/MyDrive/testdata/File 770.jpg:  A young girl in a purple dress rides a bicycle along a sandy beach, with three individuals walking in the background and boats dotting the calm ocean.
+/content/drive/MyDrive/testdata/File 769.jpg:  A wooden desk holds a computer setup, including a monitor, keyboard, mouse, and speakers, with a lamp, books, and papers nearby.
+/content/drive/MyDrive/testdata/File 771.jpg:  A lively kite festival unfolds in a verdant field, with colorful kites soaring in the sky and people scattered across the grassy expanse.
+/content/drive/MyDrive/testdata/File 606.jpg:  A vintage bus, labeled "Knott's Berry Farm Ghost Town", waits in a parking lot, with a large barn and crane in the background.
+/content/drive/MyDrive/testdata/File 889.jpg:  The Old Town Hall in Prague, Czech Republic, features a tall stone clock tower with a green spire, ornate carvings, and a large clock face, all set against a snowy backdrop.
+/content/drive/MyDrive/testdata/File 267.jpg:  A woman in an orange dress and a dog in a brown collar celebrate a birthday with a colorful cake on a wooden table, framed by a window and a lush garden.
+/content/drive/MyDrive/testdata/File 266.jpg:  A young woman in a white dress embraces a black horse with a bridle in a lush green field, surrounded by trees.
+/content/drive/MyDrive/testdata/File 772.jpg:  A blue and white train crosses a concrete bridge over a body of water, with a lighthouse and palm trees in the distance.
+/content/drive/MyDrive/testdata/File 773.jpg:  A woman in a black dress serves a group of people at a table in a white-walled room, with wine glasses and a white tablecloth.
+/content/drive/MyDrive/testdata/File 269.jpg:  A man types on a laptop, accompanied by a curious brown and white kitten perched on the keyboard, in a cozy room with a wooden dresser and mirror.
+/content/drive/MyDrive/testdata/File 973.jpg:  A white sign with black text, "NO HORN BLOWING EXCEPT FOR ANGER", is affixed to a yellow pole, accompanied by a traffic light and a Thai Cuisine sign.
+/content/drive/MyDrive/testdata/File 268.jpg:  A light brown dog eagerly waits for a black fork to be offered, while a person's hand with orange wristband reaches out from a couch in a cozy living room.
+/content/drive/MyDrive/testdata/File 774.jpg:  A man in black walks down a rain-soaked street, holding a black umbrella, with a row of shops and parked cars lining the street.
+/content/drive/MyDrive/testdata/File 681.jpg:  A row of colorful umbrellas in red, yellow, and orange hues, with "WA" and "C" logos, lines a sidewalk lined with black chairs and tables.
+/content/drive/MyDrive/testdata/File 974.jpg:  A white sign with black text and symbols warns surfers of potential dangers in a river, with a surfer riding a wave and others preparing to surf in the background.
+/content/drive/MyDrive/testdata/File 682.jpg:  A display of stuffed animals, including teddy bears, bears, and rabbits, is arranged on a black and white checkered floor, with a sign reading "Please do not touch" and a plaque honoring the "Teddy Bears".
+/content/drive/MyDrive/testdata/File 890.jpg:  A stone church with a clock tower and arched windows stands in a bustling city, surrounded by people and bicycles.
+/content/drive/MyDrive/testdata/File 270.jpg:  A person in black jacket and blue jeans walks a brown dog on a leash along a wet sidewalk, with a red and white sign and a body of water in the background.
+/content/drive/MyDrive/testdata/File 271.jpg:  A man in a blue shirt and hat walks a gray water buffalo along a dirt road, carrying a bundle of green plants, with a lush green field and distant mountains in the background.
+/content/drive/MyDrive/testdata/File 975.jpg:  A blue street sign with white text and a red border, reading "JALAN HANGLEKIU POSKOD 501100 Kuala Lumpur", stands on a city street corner.
+/content/drive/MyDrive/testdata/File 976.jpg:  A man in a blue Suzuki service uniform stands next to a black Suzuki motorcycle with a black storage compartment, parked in front of a Suzuki Service shop.
+/content/drive/MyDrive/testdata/File 775.jpg:  A tranquil blue ocean scene features a small white boat with a blue roof, a larger white boat with a blue roof, and a white boat with a blue roof, all with seagulls on deck.
+/content/drive/MyDrive/testdata/File 891.jpg:  A grand clock tower with a white clock face and black numbers stands against a clear blue sky, featuring a domed roof and ornate carvings.
+/content/drive/MyDrive/testdata/File 978.jpg:  A red stop sign and a blue street sign with white text "Bruck an der Leitha" are mounted on a black pole, with a warm-toned street lamp in the background.
+/content/drive/MyDrive/testdata/File 977.jpg:  A blue street sign with white text in Swedish and a white camera sign with black text in Swedish are mounted on a pole in a European city.
+/content/drive/MyDrive/testdata/File 272.jpg:  A man in a blue beanie and a woman in a red jacket sit on a stone wall, accompanied by a black and white dog on a leash, with a large stone building in the background.
+/content/drive/MyDrive/testdata/File 979.jpg:  A red and white "ROAD CLOSED" sign, accompanied by a black trash can, stands on a residential street lined with houses and parked cars.
+/content/drive/MyDrive/testdata/File 980.jpg:  A green street sign for N Michigan Av and a brown sign for The Magnificent Mile intersect in Chicago, with a tall building in the background.
+/content/drive/MyDrive/testdata/File 683.jpg:  A festive Christmas float, featuring a teddy bear, a woman in a white dress, and a "Disneyland" sign, is adorned with a red bow and green tinsel.
+/content/drive/MyDrive/testdata/File 981.jpg:  A green street sign for "MIDDACH ST" is mounted on a silver pole, with a bare tree branch extending into the frame against a clear blue sky.
+/content/drive/MyDrive/testdata/File 273.jpg:  A brown dog sniffs a black remote control held by a person's hand, with a beige blanket and black wall in the background.
+/content/drive/MyDrive/testdata/File 892.jpg:  A black clock tower with gold accents and a white clock face stands on a brick sidewalk, accompanied by a red brick building and a car in the background.
+/content/drive/MyDrive/testdata/File 893.jpg:  A red fire truck and a red van with a white "Ers De Paris" sign are parked in front of Notre Dame Cathedral in Paris, France, with a tree and street lamp in the background.
+/content/drive/MyDrive/testdata/File 274.jpg:  A horse-drawn carriage travels down a dirt road, carrying two men in traditional attire, with a white wooden house and lush greenery in the background.
+/content/drive/MyDrive/testdata/File 276.jpg:  A woman in black lies on a grassy field, accompanied by a brown dog, with a laptop and city skyline in the background.
+/content/drive/MyDrive/testdata/File 275.jpg:  A man in a black t-shirt and baseball cap plays frisbee with a golden retriever in a lush green field, with a blue portable toilet in the background.
+/content/drive/MyDrive/testdata/File 277.jpg:  Three polo players in red, black, and white uniforms compete on sandy terrain, with one player in red leading the charge and two others in black and white following.
+/content/drive/MyDrive/testdata/File 894.jpg:  A red brick clock tower with a white clock face and black roof stands in a bustling city square, surrounded by buildings, trees, and people.
+/content/drive/MyDrive/testdata/File 684.jpg:  A red fire hydrant with a face painted in black and white, featuring a smiley face and eyes, stands on a brick sidewalk with a white building and palm trees in the background.
+/content/drive/MyDrive/testdata/File 278.jpg:  A man feeds two giraffes in a zoo enclosure, with one giraffe stretching its long neck to reach the man's hand.
+/content/drive/MyDrive/testdata/File 895.jpg:  Big Ben, a renowned London landmark, stands tall against a clear blue sky, its white clock face and gold accents contrasting with the surrounding architecture.
+/content/drive/MyDrive/testdata/File 982.jpg:  A black bear statue sits on a yellow pole, with a green street sign for Manchester A34 and Maclefield A536, and a red traffic light in the background.
+/content/drive/MyDrive/testdata/File 279.jpg:  A black horse stands in a wooden stall, surrounded by hay, with a sign reading "Shire Horse" and people observing, including a child in a red hat.
+/content/drive/MyDrive/testdata/File 685.jpg:  A blue vase with a yellow daisy and blue flowers sits on a wooden table, accompanied by a laptop, phone, and soda can.
+/content/drive/MyDrive/testdata/File 280.jpg:  A gray cat sleeps peacefully on a person's lap, wearing a blue and white plaid robe, with a black keyboard and red chair in the background.
+/content/drive/MyDrive/testdata/File 984.jpg:  A black and white street sign for Main Street and Spring Street intersects with a blue sign for a pipe band competition on Saturday and Sunday.
+/content/drive/MyDrive/testdata/File 983.jpg:  A bustling street scene in Vietnam features a yellow and black storefront, displaying a variety of electronics and accessories, with a person walking past.
+/content/drive/MyDrive/testdata/File 985.jpg:  A green street sign with white text, "Avenue of the Strongest", is mounted on a pole, with a white building and blue sky in the background.
+/content/drive/MyDrive/testdata/File 686.jpg:  Three potted plants, including a cactus, succulent, and snake plant, are arranged on a green tiled shelf, with a wooden shelf in the background.
+/content/drive/MyDrive/testdata/File 281.jpg:  A man in a black jacket and cap pets a black and white dog in a lush green field, with two sheep grazing in the background.
+/content/drive/MyDrive/testdata/File 896.jpg:  Big Ben, a renowned London landmark, towers over the cityscape, featuring a clock face and a spire with a cross, set against a cloudy sky.
+/content/drive/MyDrive/testdata/File 897.jpg:  A two-story brick building with a green roof, clock tower, and American flags stands on a street corner, surrounded by trees and a clear blue sky.
+/content/drive/MyDrive/testdata/File 282.jpg:  A mannequin in a white robe stands in a modern art gallery, accompanied by a sheep-like sculpture, with a mural and people in the background.
+/content/drive/MyDrive/testdata/File 283.jpg:  A woman in an orange t-shirt smiles while holding a gray and white dog, with a black dog resting on a wooden shelf in the background.
+/content/drive/MyDrive/testdata/File 898.jpg:  A brick building with a clock tower and "Sakana Sushi & Grill" sign stands on a busy street corner, with a traffic light and street lamp nearby.
+/content/drive/MyDrive/testdata/File 284.jpg:  A man in a blue shirt holds a young girl in a pink dress, feeding a giraffe with a long neck and brown spots, while another person observes in the background.
+/content/drive/MyDrive/testdata/File 899.jpg:  A grand clock tower with a white clock face and black hands stands tall, featuring ornate carvings and a small balcony, against a clear blue sky.
+/content/drive/MyDrive/testdata/File 285.jpg:  A clown in a black suit with red stripes and a red nose walks on a street, accompanied by a gray elephant and a red Mini Cooper, with the Kremlin in the background.
+/content/drive/MyDrive/testdata/File 986.jpg:  A green highway sign for South 287 Morrisstown and a "Welcome to New Jersey" sign are mounted on a metal structure, with a hill and trees in the background.
+/content/drive/MyDrive/testdata/File 987.jpg:  A black and white photograph captures a city street scene, featuring a "P" bicycle parking sign, a pharmacy, and a white van, with a tree and lamppost in the background.
+/content/drive/MyDrive/testdata/File 286.jpg:  Children and adults gather around a wooden fence, petting a brown horse in a rural setting with a corrugated metal building and trees in the background.
+/content/drive/MyDrive/testdata/File 287.jpg:  A man in green shirt and blue shorts interacts with a gray elephant in a muddy river, with the elephant's trunk extended towards the water.
+/content/drive/MyDrive/testdata/File 288.jpg:  A man in a blue and white striped shirt rides a white horse along a sandy beach, with the ocean and distant islands in the background.
+/content/drive/MyDrive/testdata/File 988.jpg:  Two street signs, "Surfers Paradise Blvd" and "View Ave", stand on a metal pole in a parking lot, with a palm tree and a building in the background.
+/content/drive/MyDrive/testdata/File 776.jpg:  A tennis match unfolds on a vibrant blue court, with players in white and blue attire engaged in a rally, while spectators watch from the stands.
+/content/drive/MyDrive/testdata/File 900.jpg:  The Palace of Westminster, also known as the Houses of Parliament, stands majestically in London, England, with the Elizabeth Tower and Big Ben visible in the background.
+/content/drive/MyDrive/testdata/File 289.jpg:  Two men in suits and hats, one reading and the other holding a book, stand in a field with two horses and a plow, surrounded by trees.
+/content/drive/MyDrive/testdata/File 290.jpg:  A man in a blue shirt and green hat drives a horse-drawn carriage with a red bench and white canopy, carrying a man in a green jacket and hat.
+/content/drive/MyDrive/testdata/File 777.jpg:  A red storefront named "L'Ours du Marais" displays a variety of items, with a group of people gathered outside and two parked cars on the street.
+/content/drive/MyDrive/testdata/File 291.jpg:  Two individuals, dressed in black and white, ride horses on a sandy beach, with the ocean and clear blue sky in the background.
+/content/drive/MyDrive/testdata/File 292.jpg:  A young boy in black shirt and shorts holds a bucket, splashing water on a gray elephant in a rocky riverbed, with a rocky hill in the background.
+/content/drive/MyDrive/testdata/File 901.jpg:  A grand brick building with a clock tower, white clock face, and gold accents stands against a gray sky, featuring a coat of arms and a flagpole.
+/content/drive/MyDrive/testdata/File 902.jpg:  A tall brick clock tower with two white clock faces and black numbers stands against a clear blue sky, featuring a cross design on the clock faces.
+/content/drive/MyDrive/testdata/File 293.jpg:  A man in red and blue washes a deceased elephant with a hose on a dirt road, surrounded by lush greenery.
+/content/drive/MyDrive/testdata/File 294.jpg:  A young woman in a white dress and flower crown stands next to a light brown horse with a black halter, set against a lush green background.
+/content/drive/MyDrive/testdata/File 295.jpg:  A woman in a beige shirt feeds a gray elephant with large tusks in a lush green field, with other elephants and people in the background.
+/content/drive/MyDrive/testdata/File 688.jpg:  A silver Sharp microwave, labeled "Commercial Microwave," sits on a blue countertop, accompanied by a basket of white coffee bags and a sign encouraging cleanliness.
+/content/drive/MyDrive/testdata/File 687.jpg:  A small orange and white guitar rests on a white cross, accompanied by a white candle, yellow flowers, and a white jug, with a brown sombrero in the foreground.
+/content/drive/MyDrive/testdata/File 690.jpg:  A blue wheelbarrow, green wicker basket, and stacked suitcases in various colors and sizes are arranged on a brick sidewalk.
+/content/drive/MyDrive/testdata/File 778.jpg:  A rainy city street features a wet road, cars, and pedestrians, with buildings and flags lining the street.
+/content/drive/MyDrive/testdata/File 689.jpg:  A red fire hydrant sprays water onto a wet sidewalk, with a black car parked nearby and a person walking on the sidewalk.
+/content/drive/MyDrive/testdata/File 989.jpg:  A man in a green jacket rides a blue bicycle past a red and white billboard, a yellow and blue billboard, and a green and white billboard, with a red traffic light and bare trees in the background.
+/content/drive/MyDrive/testdata/File 903.jpg:  A white clock tower with two gold-framed clocks and a statue of a man holding a scroll stands against a clear blue sky.
+/content/drive/MyDrive/testdata/File 779.jpg:  A person in a striped shirt and shorts bends over a surfboard on a sandy beach, with a colorful striped umbrella and two plastic chairs in the background.
+/content/drive/MyDrive/testdata/File 780.jpg:  A cozy kitchen features white cabinets, a gray refrigerator, a red kettle, a black oven, and a window with white blinds, all set against a green wall and wooden floor.
+/content/drive/MyDrive/testdata/File 296.jpg:  A young boy in green shirt and helmet rides a white spotted horse with a brown saddle, approaching two large metal troughs in a red barn.
+/content/drive/MyDrive/testdata/File 297.jpg:  A man in a blue shirt and straw hat rides a gray elephant with a green chain, accompanied by another elephant in a rocky landscape.
+/content/drive/MyDrive/testdata/File 904.jpg:  A white clock tower with a green roof and weather vane stands atop a beige building with blue shutters, set against a clear blue sky.
+/content/drive/MyDrive/testdata/File 298.jpg:  A young woman in a white tank top and blue jeans walks alongside a white horse statue in a city plaza, with a building and trees in the background.
+/content/drive/MyDrive/testdata/File 783.jpg:  A CSX locomotive, numbered 2806, pulls a passenger car along a gravel railway track, passing a small white building with a blue roof.
+/content/drive/MyDrive/testdata/File 991.jpg:  A street corner in a small town features a green traffic light, yellow and white signs, and a blue car, with a pink building and white trash can in the background.
+/content/drive/MyDrive/testdata/File 781.jpg:  A white boat named "KATIE JEAN" is docked at a wooden pier, with a white house and blue roof in the background.
+/content/drive/MyDrive/testdata/File 782.jpg:  A concrete staircase with a wooden bench and a small window is set against a weathered concrete wall, with dry grass and a shadow cast by the bench.
+/content/drive/MyDrive/testdata/File 990.jpg:  A black metal signpost with eight directional signs points to various locations, including Bathwellhaugh Pavilion, Roman Bathhouse, Foreshore Beach, Watersports Centre, Caravan & Camping Site, and Exit M74 Jet6, A733.
+/content/drive/MyDrive/testdata/File 692.jpg:  A white gas stove with a black oven and a white gas control panel stands in front of a graffiti-covered wall, accompanied by three black garbage cans.
+/content/drive/MyDrive/testdata/File 787.jpg:  A four-poster bed with white linens and a wooden headboard, flanked by nightstands with lamps, is situated in a cozy bedroom with a wooden door and window.
+/content/drive/MyDrive/testdata/File 786.jpg:  An aerial view of a bustling city reveals a train station, a bridge, and a church, with a mix of modern and traditional architecture.
+/content/drive/MyDrive/testdata/File 691.jpg:  A teddy bear in a blue cap sits on a wooden desk, accompanied by a white cash register displaying a stack of cash and a pile of papers.
+/content/drive/MyDrive/testdata/File 785.jpg:  A bustling beach scene features colorful umbrellas, beach chairs, and people enjoying the sun and sand, with a cooler and cooler bag nearby.
+/content/drive/MyDrive/testdata/File 784.jpg:  A cozy bedroom features two twin beds with red and white striped comforters, a wooden dresser with a television, and a window with white blinds, all set against a rustic wooden wall.
+/content/drive/MyDrive/testdata/File 788.jpg:  A cozy living room features a black TV, white bookshelf, black entertainment center, and a black floor lamp, with a white lampshade and a black and white cat statue on the bookshelf.
+/content/drive/MyDrive/testdata/File 693.jpg:  A white National brand microwave with a digital display and control panel sits on a wooden shelf, accompanied by a white kettle and a stack of books.
+/content/drive/MyDrive/testdata/File 992.jpg:  A green street sign with white lettering marks the intersection of Ivy St and Orchard Knob Av, with a yellow sign above indicating the intersection of Orchard Knob and Ivy St.
+/content/drive/MyDrive/testdata/File 995.jpg:  A green highway sign with white text and a white shield displays "101" and "Eureka" directions, accompanied by a red stop sign and power lines in a wooded area.
+/content/drive/MyDrive/testdata/File 994.jpg:  A man in a red cap skateboards past a white building with a red "EAST POULTRY" sign, accompanied by a telephone pole and power lines.
+/content/drive/MyDrive/testdata/File 299.jpg:  A young girl in a green coat and pink boots walks a brown dog on a tree-lined path, with a woman jogging in the background.
+/content/drive/MyDrive/testdata/File 993.jpg:  A green street sign for Salix PL 7700, with a white arrow pointing right, is mounted on a gray pole amidst lush palm trees.
+/content/drive/MyDrive/testdata/File 694.jpg:  A wooden table holds a vibrant bouquet of red roses, white daisies, pink carnations, and green succulents, with a black stereo system in the background.
+/content/drive/MyDrive/testdata/File 695.jpg:  Three uniquely colored vases, orange, blue, and green, with floral designs, are arranged in a triangular formation on a black background, accompanied by a yellow ruler.
+/content/drive/MyDrive/testdata/File 789.jpg:  A cozy living room features a wooden bookshelf filled with books, DVDs, and CDs, accompanied by a television, stereo, and poster on a green wall.
+/content/drive/MyDrive/testdata/File 696.jpg:  A black keyboard, blue computer monitor, and white and blue striped napkin with "donut" and "computer name" written on it are arranged on a wooden desk.
+/content/drive/MyDrive/testdata/File 697.jpg:  A white ceramic teapot holds a bouquet of six white flowers with yellow centers, arranged on a beige crocheted doily against a pink backdrop.
+/content/drive/MyDrive/testdata/File 790.jpg:  A black dog rests on a red pet bed, surrounded by a green vase of white and red flowers, a green plant, and two pink and white striped pillows on a wooden bench.
+/content/drive/MyDrive/testdata/File 791.jpg:  A white desk with a laptop, papers, and a plant sits in a cozy room, accompanied by a white chair and a bookshelf.
+/content/drive/MyDrive/testdata/File 997.jpg:  A street sign for "Ponce de Leon" and a traffic light with a "No Turn on Red" sign are mounted on a pole, with a white building and palm trees in the background.
+/content/drive/MyDrive/testdata/File 996.jpg:  A blue and white sign for Apollo 2647 is displayed on a brick building, accompanied by a blue parking meter and a window with a yellow curtain and a painting.
+/content/drive/MyDrive/testdata/File 301.jpg:  A man in white sits atop a brown horse, drinking from a black water trough in a dry, open field with power lines in the distance.
+/content/drive/MyDrive/testdata/File 300.jpg:  Four children in colorful attire pose with a giraffe in a zoo enclosure, backed by a large rock formation and lush greenery.
+/content/drive/MyDrive/testdata/File 698.jpg:  A red-brown cake with a crumbly texture sits in a silver baking dish on a black wire rack, with a white oven door and black oven mitts in the background.
+/content/drive/MyDrive/testdata/File 699.jpg:  A clear glass vase holds a bouquet of yellow flowers, including mimosa and a single red flower, on a wooden table.
+/content/drive/MyDrive/testdata/File 302.jpg:  A woman in pink and blue interacts with two black dogs on a wooden deck, surrounded by a lush garden and a brick house.
+/content/drive/MyDrive/testdata/File 792.jpg:  A bustling Hong Kong street scene features towering buildings, vibrant signs, and a mix of vehicles, with a clear blue sky overhead.
+/content/drive/MyDrive/testdata/File 905.jpg:  A red bus labeled "Marylebone" and "453" waits at a bus stop, with a white car and black car parked nearby, and the iconic Big Ben clock tower in the background.
+/content/drive/MyDrive/testdata/File 700.jpg:  A traffic light with red, yellow, and green lights hangs from a pole, accompanied by a street sign and a tall building in an urban setting.
+/content/drive/MyDrive/testdata/File 906.jpg:  A tall stone clock tower with a pointed roof, arched window, and clock face stands against a clear blue sky, with a contrail in the distance.
+/content/drive/MyDrive/testdata/File 702.jpg:  A black stovetop holds six large silver pots and pans, with blue handles and spoons, and a white cloth nearby.
+/content/drive/MyDrive/testdata/File 701.jpg:  A large, round clock with Roman numerals and a yellow face hangs from a black metal frame, casting a warm glow in a dimly lit room with a window and a sign reading "City Gallery".
+/content/drive/MyDrive/testdata/File 303.jpg:  A man and a woman ride an elephant through a lush jungle, with the man seated on the elephant's back and the woman standing nearby.
+/content/drive/MyDrive/testdata/File 306.jpg:  A man in a gray jacket rides a white horse on a city street, accompanied by a woman in a black jacket and hat, with a black NYPD truck and pink fire hydrant nearby.
+/content/drive/MyDrive/testdata/File 305.jpg:  A man in a green shirt and hat leads a white cow with a blue collar and tag, accompanied by two men in red and white shirts, in a lush green field.
+/content/drive/MyDrive/testdata/File 304.jpg:  A man in a blue cap walks a brown horse with a white dog on its back, accompanied by a green bag and a brick wall backdrop.
+/content/drive/MyDrive/testdata/File 607.jpg:  A white airplane with blue and yellow accents, registration number UR-VVP, flies from left to right against a clear blue sky.
+/content/drive/MyDrive/testdata/File 609.jpg:  A blue and white articulated bus, numbered 480, drives on a city street, displaying a green destination sign and passing a traffic light.
+/content/drive/MyDrive/testdata/File 907.jpg:  A grand red brick building with a clock tower, arched entrance, and two towers stands against a clear blue sky, with people walking towards the entrance.
+/content/drive/MyDrive/testdata/File 998.jpg:  A red stop sign with "ARRET" in white letters stands on a metal pole, accompanied by a red and white crosswalk and a blue car on a city street.
+/content/drive/MyDrive/testdata/File 610.jpg:  A white and gray articulated bus, displaying "L'Enfant-Ville Centre" and "2" on its front, parks on a cobblestone street in a European city, with a row of buildings and a clear blue sky in the background.
+/content/drive/MyDrive/testdata/File 608.jpg:  A Sky airplane, painted in white with a blue tail and yellow star, taxis on a gray runway, with a large industrial complex and smokestack in the background.
+/content/drive/MyDrive/testdata/File 703.jpg:  A white blender with a clear glass pitcher and red strawberries sits on a black countertop, accompanied by a white toaster and a silver kettle.
+/content/drive/MyDrive/testdata/File 794.jpg:  A cozy bedroom features a white bed with red and black pillows, a wooden nightstand, and a window with a view of trees, all bathed in soft light.
+/content/drive/MyDrive/testdata/File 793.jpg:  A modern kitchen features light wood cabinets, stainless steel appliances, and a large window with a bamboo shade, all set against a backdrop of a wooden floor.
+/content/drive/MyDrive/testdata/File 795.jpg:  Two vibrant umbrellas, yellow and red, stand on a blue bench, accompanied by two black birds, with a serene ocean view in the background.
+/content/drive/MyDrive/testdata/File 307.jpg:  A man in a green t-shirt and sunglasses stands on a grassy lawn, accompanied by a brown and black dog on a leash, with a gray house and tree in the background.
+/content/drive/MyDrive/testdata/File 999.jpg:  A green sign with white text and a pink circle displays a message about plastic containers, accompanied by a sticker and a black and white sign with a message.
+/content/drive/MyDrive/testdata/File 308.jpg:  A line of elephants, adorned with colorful blankets and headpieces, stands in front of a yellow building in India, with riders in traditional attire.
+/content/drive/MyDrive/testdata/File 797.jpg:  A bustling London street scene features a yellow traffic light, red traffic light, and a yellow "CASH" sign, with buildings and parked cars lining the street.
+/content/drive/MyDrive/testdata/File 796.jpg:  A bustling Hong Kong street scene features colorful umbrellas, flower stalls, and signs in Chinese and English, with people walking and shopping amidst the wet pavement.
+/content/drive/MyDrive/testdata/File 1001.jpg:  A red stop sign and white warning sign on a wooden fence guide travelers to a railway crossing, with a yellow post and a blue gate in the background.
+/content/drive/MyDrive/testdata/File 1000.jpg:  A black and white cat sits on a concrete sidewalk, gazing at the camera, with a silver car parked nearby and a license plate reading "5.22".
+/content/drive/MyDrive/testdata/File 309.jpg:  A man in red and a woman in blue ride an elephant through a muddy river, surrounded by lush greenery.
+/content/drive/MyDrive/testdata/File 798.jpg:  A modern living room features a black leather sofa, glass coffee table, and white dining table with chairs, complemented by a large window and a black-framed mirror.
+/content/drive/MyDrive/testdata/File 1002.jpg:  A red stop sign and green street sign for "Cannery Row" are mounted on a pole, with a white building and palm tree in the background.
+/content/drive/MyDrive/testdata/File 704.jpg:  A book titled "Wintersmith" by Terry Pratchett lies on a brown quilted surface, with a gold-colored spine and a red and blue illustration.
+/content/drive/MyDrive/testdata/File 800.jpg:  A serene hotel room features a large bed with white linens, a white headboard, and a red throw pillow, accompanied by a white bench and nightstand with a lamp.
+/content/drive/MyDrive/testdata/File 799.jpg:  A gray desk with a laptop, two monitors, and a keyboard is surrounded by bookshelves, a black chair, and a white door, with a whiteboard and blackboard in the background.
+/content/drive/MyDrive/testdata/File 801.jpg:  A modern kitchen features warm wooden cabinets, a black refrigerator, a white microwave, and a beige island with a sink, surrounded by black chairs and a wooden floor.
+/content/drive/MyDrive/testdata/File 908.jpg:  A red brick clock tower with a gold dome and clock face, featuring Roman numerals and a sun dial, stands tall against a clear blue sky.
+/content/drive/MyDrive/testdata/File 705.jpg:  A white clock with black Roman numerals and hands is mounted on a stone wall, accompanied by a small bird and a coat of arms.
+/content/drive/MyDrive/testdata/File 802.jpg:  A luxurious bathroom features a large mirror, wooden vanity, and two sinks, with a red bathtub, wooden columns, and a vase of flowers on the right.
+/content/drive/MyDrive/testdata/File 706.jpg:  A blue and white vase with a floral design sits on a wooden shelf, accompanied by a stack of books, including "The Tale of Mrs. Tittlemouse" and "It's Mine!".
+/content/drive/MyDrive/testdata/File 1003.jpg:  A red and white "No Parking Any Time This Side of Sign" sign stands in a residential area, with a row of houses and parked cars in the background.
+/content/drive/MyDrive/testdata/File 804.jpg:  A modern kitchen features a white stove and oven, red cabinets, and a black countertop, with a yellow and black striped backsplash and white tiled backsplash.
+/content/drive/MyDrive/testdata/File 803.jpg:  A canal in London, UK, features a row of colorful boats, including a blue and white boat named "Glosson", with modern buildings and a cloudy sky in the background.
+/content/drive/MyDrive/testdata/File 909.jpg:  A grand stone building with a clock tower, arched windows, and a dome, stands against a clear blue sky with fluffy white clouds.
+/content/drive/MyDrive/testdata/File 707.jpg:  A red chair with a white horse statue on its seat sits on a grassy lawn, backed by a beige building with large windows.
+/content/drive/MyDrive/testdata/File 805.jpg:  A serene bathroom features a white sink, toilet, and wooden countertop, complemented by a white towel, brown towel, and framed palm tree artwork, with a white bath mat and beige tile floor.
+/content/drive/MyDrive/testdata/File 1004.jpg:  A white sign with a black border, featuring a stick figure holding a leash and a dog, stands in a park with trees and a body of water.
+/content/drive/MyDrive/testdata/File 709.jpg:  Two teddy bears, one larger and one smaller, sit on a snow-covered wooden table in front of a blue-painted house with a cactus decoration.
+/content/drive/MyDrive/testdata/File 1005.jpg:  A green street sign for George Balanchine Way and W 63 St intersects with a black and white "WAY" sign, set against a backdrop of a tall building.
+/content/drive/MyDrive/testdata/File 708.jpg:  Three teddy bears, adorned with colorful ribbons and glittery fur, are arranged in a pyramid formation on a red surface, with a blurred background.
+/content/drive/MyDrive/testdata/File 808.jpg:  A cozy living room features a beige sofa, wooden coffee table, red curtains, and a large flat-screen TV, with a bookshelf and potted plants adding to the warm atmosphere.
+/content/drive/MyDrive/testdata/File 1006.jpg:  A green street sign for "Morse Dr." and "Park St." stands on a gray pole, with a clear blue sky and trees in the background.
+/content/drive/MyDrive/testdata/File 809.jpg:  A young man relaxes on a black futon in a cozy living room, surrounded by bookshelves, a desk, a television, and a window with a view of the outdoors.
+/content/drive/MyDrive/testdata/File 807.jpg:  A black entertainment center holds a television displaying a man in a red plaid shirt, a black stereo, and a white cat, with a red bag and golf clubs nearby.
+/content/drive/MyDrive/testdata/File 810.jpg:  A cozy kitchen features white cabinets, a black countertop, and a gas stove, with a window and track lighting adding depth and light.
+/content/drive/MyDrive/testdata/File 806.jpg:  A cozy kitchen features wooden cabinets, a black stove, sink, and dishwasher, with a blue towel and pink bowl on the countertop.
+/content/drive/MyDrive/testdata/File 710.jpg:  A rain-streaked window reveals two red traffic lights, one blurred and the other in focus, against a gray sky.
+/content/drive/MyDrive/testdata/File 1007.jpg:  A red stop sign and green street signs for Washington and Palace streets intersect at a crosswalk, with a beige building and trees in the background.
+/content/drive/MyDrive/testdata/File 1008.jpg:  A gray street sign for "Berliner Strafe" stands on a metal pole, accompanied by a smaller sign for "112-104" and a tree with green leaves.
+/content/drive/MyDrive/testdata/File 1009.jpg:  A red stop sign and green street signs for Ira Zaslow, Flanders Dr, and Park La intersect at a street corner, with a blue fire hydrant and white house in the background.
+/content/drive/MyDrive/testdata/File 910.jpg:  The Grand Place in Bruges, Belgium, features a large Gothic-style building with intricate details, surrounded by a bustling cobblestone square and people strolling.
+/content/drive/MyDrive/testdata/File 1010.jpg:  A red brick church with a tall steeple and clock tower stands on a street corner, accompanied by a green street sign and traffic light.
+/content/drive/MyDrive/testdata/File 310.jpg:  A baseball player swings a white bat with red and black accents, wearing a white jersey with the number 22, blue pants, and a black helmet, with a blurred figure in the background.
+/content/drive/MyDrive/testdata/File 612.jpg:  A black desk holds a computer monitor, laptop, tablet, and speakers, with a Google search bar and a window with a striped curtain.
+/content/drive/MyDrive/testdata/File 001.jpg:  Two men in suits stand behind a wooden podium, one speaking into a microphone and the other listening, with an American flag and British Consulate-General Boston backdrop.
+/content/drive/MyDrive/testdata/File 210.jpg:  A woman in a pink floral dress playfully interacts with a black dog in a cozy kitchen, with a white refrigerator and sink in the background.
+/content/drive/MyDrive/testdata/File 514.jpg:  A red and white double-decker bus, labeled "The Witch Way" and "Nelson via Burnley", parks on a city street, with a white building and a red-awninged shop in the background.
+/content/drive/MyDrive/testdata/File 911.jpg:  A red and white "No Entry" sign with a black arrow and a "Cosp Ar Iontrail No Entry" sign are mounted on a pole, with a black trash can and a tree in the background.
+/content/drive/MyDrive/testdata/File 106.jpg:  A light brown elephant with dark spots stands in a verdant field, facing left with its trunk extended, amidst a backdrop of trees and a fence.
+/content/drive/MyDrive/testdata/File 513.jpg:  A white and black private jet, registration N728MG, taxis on a runway, with a red Hyundai cargo container and green triangular logo in the background.
+/content/drive/MyDrive/testdata/File 312.jpg:  Two motorcyclists in yellow and black suits race on a black and white motorcycle, leaning into a turn on a red and white track.
+/content/drive/MyDrive/testdata/File 711.jpg:  A cozy bedroom features a wooden dresser, bed with blue blanket, rocking chair, and dresser with mirror, bathed in natural light and adorned with a sailboat and potted plant.
